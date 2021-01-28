@@ -1,0 +1,80 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Titillium+Web:wght@300&display=swap');*/
+
+header {
+	background-color: purple;
+	text-align: center;
+    max-width: 960px;
+    padding: 1em 1em;
+	margin: 0 auto;
+}
+
+h1 {
+	font-family: 'Bree Serif', serif;
+}
+
+h2 {
+	color:white;
+	font-family: 'Bree Serif', serif;
+	border-bottom: 10px double;
+}
+
+h3, h4{
+	margin: auto;
+	font-family: 'Bree Serif', serif;
+}
+
+p {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+nav{
+	font-family: 'Titillium Web', sans-serif;
+	padding: 2em;
+}
+
+#content {
+    max-width: 960px;
+	margin: 0 auto;
+	color: white;
+	background-color: maroon;
+	border-radius: 10px;
+}
+
+.home-grid {
+	grid-template-columns: repeat(6, 1fr);
+	grid-gap: 0.5em;
+}
+
+.home-headline {
+	padding: 1em 1em;
+}
+
+footer {
+	background-color: purple;
+	text-align: center;
+	padding: 1em 1em;
+	max-width: 935px;
+	margin: 0 auto;
+	color: white;
+}
+
+nav a:link, nav a:visited{
+	color: white;
+}
+nav a:hover{
+	color: yellow;
+}
+
+footer a:link, footer a:visited{
+	color: white;
+}
+footer a:hover{
+	color:yellow;
+}
+
+h4 a:link, h4 a:visited{
+	color: white;
+}
+h4 a:hover{
+	color:yellow;
+}
