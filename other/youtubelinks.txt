@@ -33,3 +33,5 @@ https://www.minecraft.net/en-us/get-minecraft/
 
 I do not own any of the images from in-game. All images, information, and videos belong to their respective creators, programmers, and directors. These being Microsoft,
 Markus Persson, Jens Bergensten, and Mojang Studios.
+
+What classifies a type of mob: https://minecraft.gamepedia.com/Mob
