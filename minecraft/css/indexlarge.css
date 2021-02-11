@@ -3,17 +3,16 @@
         margin-right: 5rem;
         margin-left: 5rem;
     }
-    main h1 {
-        text-align: left;
-        margin-left: 1em;
-    }
+	.headings{
+		align-self: center;
+	}
 
 	.top1{
 		display: flex;
 	}
 	picture.logo1 img{
-		width: 50px;
-		padding: 10px;
+		width: 100px;
+		padding: 5px;
 	}
 	.top2{
 		display: none;
