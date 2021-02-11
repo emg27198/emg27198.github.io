@@ -1,0 +1,127 @@
+
+	body {
+		background-color: #3B7080;
+		padding: 0;
+		margin: 0;
+	}
+	header {
+		padding: 10px 0;
+		display: flex;
+		justify-content: center;
+		background-color: white;
+	}
+	.top1{
+		display: none;
+	}
+	
+	header img {
+		width: 60px;
+		height: auto;
+		margin-left: 10px;
+	}
+	
+	.place > .herodiv {
+		background-color: rgba(58, 87, 67);
+		border-radius: 5px;
+		padding: .5em;
+		margin: 5px;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.place > .entry2 {
+		background-color: rgba(58, 87, 67);
+		border-radius: 5px;
+		padding: .5em;
+		margin: 5px;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.place > .entry3 {
+		border-radius: 5px;
+		background-color: rgba(58, 87, 67);
+		padding: 1em;
+		margin: 5px;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.place > .entry4 {
+		border-radius: 5px;
+		background-color: rgba(58, 87, 67);
+		padding: 1em;
+		margin: 5px;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.place > .entry5 {
+		background-color: rgba(58, 87, 67);
+		border-radius: 5px;
+		padding: .5em;
+		margin: 5px;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	
+	
+	footer {
+		font-family: 'Open Sans', sans-serif;
+		background-color: #ADE25D;
+		color: #3a5743;
+		padding: 10px;
+		text-align: center;
+	}
+	footer a:link, footer a:visited{
+		text-decoration: none;
+		color: #3B7080;
+	}
+	footer a:hover{
+		color: #FCEc52;
+	}
+	
+	html {-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+	* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+	.navbar{display: none;}
+	nav button{
+		margin: .2rem 2%;
+		background-color: transparent;
+		font-size: 1.6rem;
+		color: #3a5743;
+		font-family: 'Crete Round', serif;
+	}
+	nav{
+		background-color: #ADE250;
+	}
+	nav ul{
+		list-style-type: none;
+		padding: 0;
+		margin: 0;
+	}
+	nav ul li{
+		font-family: 'Crete Round', serif;
+		font-size: 1rem;
+	}
+	nav ul li a{
+		display: block;
+		padding: .8rem 2%;
+		text-decoration: none;
+		color: #3a5743;
+		border-top: solid rgba(252, 236, 82, 0.3);
+	}
+	nav ul li a:hover{
+		background-color: #FCEc52;
+		color: #ADE25D;
+	}
+	
+	nav ul.hide{
+		display: none;
+	}
+	
+	.clearfix:after {
+		content: "";
+		display: table;
+		clear: both;
+	  }
+	
+	  nav ul li.active a:link{
+		background-color: #CFFFB3;
+	}
