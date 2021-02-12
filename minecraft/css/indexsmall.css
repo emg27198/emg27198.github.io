@@ -1,6 +1,5 @@
-
 	body {
-		background-color: #3B7080;
+		background-color: #2A9D8F;
 		padding: 0;
 		margin: 0;
 	}
@@ -19,61 +18,86 @@
 		display: none;
 	}
 	
+	.place{
+		display: flex;
+		flex-direction: column;
+	}
+	
 	.place > .herodiv {
-		background-color: rgba(58, 87, 67);
-		border-radius: 5px;
 		padding: .5em;
 		margin: 5px;
-		margin-right: 1em;
-		margin-left: 1em;
+		position: relative;
 	}
+	#hero {
+		width:100%;
+		height:auto;
+		border-radius: 3px;
+	}
+	.title{
+		color: #ADE250;
+		position: absolute;
+		top: 1em;
+		left: .15em;
+		background-color:rgba(244, 162, 97, 0.5);
+		padding: 10px;
+		border-radius: 3px;
+	}
+	.title h3{
+		text-align: center;
+		color: white;
+		font-family: 'Chakra Petch', sans-serif;
+		font-size: 1rem;
+	}
+	.title p{
+		text-align: center;
+		color: #264253;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+		font-size: 0.80rem;
+	}
+
+
+
 	.place > .entry2 {
 		background-color: rgba(58, 87, 67);
 		border-radius: 5px;
 		padding: .5em;
 		margin: 5px;
-		margin-right: 1em;
-		margin-left: 1em;
 	}
 	.place > .entry3 {
 		border-radius: 5px;
 		background-color: rgba(58, 87, 67);
 		padding: 1em;
 		margin: 5px;
-		margin-right: 1em;
-		margin-left: 1em;
 	}
 	.place > .entry4 {
 		border-radius: 5px;
 		background-color: rgba(58, 87, 67);
 		padding: 1em;
 		margin: 5px;
-		margin-right: 1em;
-		margin-left: 1em;
 	}
 	.place > .entry5 {
 		background-color: rgba(58, 87, 67);
 		border-radius: 5px;
 		padding: .5em;
 		margin: 5px;
-		margin-right: 1em;
-		margin-left: 1em;
 	}
 	
 	
 	footer {
-		font-family: 'Open Sans', sans-serif;
-		background-color: #ADE25D;
-		color: #3a5743;
+		font-family: 'Avro', serif;
+		background-color: #E9C46A;
+		color: #264253;
 		padding: 10px;
 		text-align: center;
 	}
 	footer a:link, footer a:visited{
 		text-decoration: none;
-		color: #3B7080;
+		color: #2A9D8F;
 	}
 	footer a:hover{
-		color: #FCEc52;
+		color: white;
+		text-decoration: underline;
 	}
 
 	/* navigation menu for website */
@@ -84,11 +108,13 @@
 		margin: .2rem 2%;
 		background-color: transparent;
 		font-size: 1.6rem;
-		color: #3a5743;
-		font-family: 'Crete Round', serif;
+		color: #264253;
+		font-weight: bold;
+		font-family: 'Chakra Petch', sans-serif;
 	}
 	nav{
-		background-color: #ADE250;
+		text-align: center;
+		background-color: #E9C46A;
 	}
 
 	nav ul{
@@ -97,23 +123,24 @@
 		margin: 0;
 	}
 	nav ul li{
-		font-family: 'Crete Round', serif;
-		font-size: 1rem;
+		font-family: 'Chakra Petch', sans-serif;
+		font-weight: bold;
+		font-size: 1.5rem;
 	}
 	nav ul li a{
 		display: block;
 		padding: .8rem 2%;
 		text-decoration: none;
-		color: #3a5743;
-		border-top: solid rgba(252, 236, 82, 0.3);
+		color: #264253;
+		border-top: solid rgba(42, 157, 143, 0.3);
 	}
 
 	nav ul li a:hover{
-		background-color: #FCEc52;
-		color: #ADE25D;
+		background-color: white;
+		color: #264253;
 	}
 	nav ul li.active a:link{
-		background-color: #CFFFB3;
+		background-color: #F4A261;
 	}
 
 	nav ul.hide{

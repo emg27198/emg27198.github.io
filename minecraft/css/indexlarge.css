@@ -1,12 +1,31 @@
 @media only screen and (min-width: 64rem) {	
-    body {
+
+    nav button{
+        display: none;
+    }
+    nav ul.hide{
+        display: block;
+    }
+    nav ul{
+        margin-left: 2%;
+    }
+    nav ul li{
+        float: left;
+        font-size: 1.25rem;
+    }
+    nav ul li a{
+        border: none;
+        border-right: 1px solid rgba(42, 157, 143,0.3);
+        padding: .8rem 1rem;
+    }
+
+	body {
         margin-right: 5rem;
         margin-left: 5rem;
     }
 	.headings{
 		align-self: center;
 	}
-
 	.top1{
 		display: flex;
 	}
@@ -16,5 +35,24 @@
 	}
 	.top2{
 		display: none;
+	}
+
+	#hero {
+		width:100%;
+		height:auto;
+	}
+	.title{
+		color: #ADE250;
+		position: absolute;
+		top: 5em;
+		left: .15em;
+		background-color:rgba(244, 162, 97, 0.5);
+		border-radius: 3px;
+	}
+	.title h3{
+		font-size: 4rem;
+	}
+	.title p{
+		font-size: 1.5rem;
 	}
 }
