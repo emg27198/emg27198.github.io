@@ -57,13 +57,57 @@
 	}
 
 
-
 	.place > .entry2 {
-		background-color: rgba(58, 87, 67);
 		border-radius: 5px;
 		padding: .5em;
-		margin: 5px;
 	}
+	.entry2 .info h2{
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.entry2 .info p{
+		text-align: center;
+		color: #264253;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+	}
+	.grid1{
+		display: grid;
+		grid-template-columns: auto auto;
+		grid-gap: 10px;
+	}
+	.grid1 a:link, .grid1 a:visited{
+		text-decoration: none;
+	}
+	.grid1 a:hover{
+		color: #2A9D8F;
+		text-decoration: underline;
+	}
+	.card {
+		width: 100%;
+		height: auto;
+		background-color:rgba(244, 162, 97);
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	}
+	.card img{
+		width: 100%;
+		height: auto;
+	}
+	.container {
+		padding: 2px 16px;
+	}
+	.container h3{
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.container p{
+		color: #264253;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+	}
+
 	.place > .entry3 {
 		border-radius: 5px;
 		background-color: rgba(58, 87, 67);
