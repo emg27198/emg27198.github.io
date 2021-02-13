@@ -244,16 +244,47 @@
 		font-weight: bold;
 	}
 
+	/*entry 5 css small*/
 	.place > .entry5 {
-		background-color: rgba(58, 87, 67);
-		border-radius: 5px;
 		padding: .5em;
-		margin: 5px;
+	}
+	.entry5 .info h2{
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.entry5 .info p{
+		text-align: center;
+		color: #264253;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+	}
+	.entry5 .info p a:link, .entry5 .info p a:visited{
+		color: #E9C46A;
+		text-decoration: none;
+	}
+	.entry5 .info p a:hover{
+		color: white;
+		text-decoration: underline;
+	}
+	.manage {
+		text-align: center;
+		width: 100%;
+		height: auto;
+		background-color:rgba(244, 162, 97);
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	}
+	iframe{
+		border: 0px;
+		padding: 10px;
+		width: 100%; 
+		height: 320px;
 	}
 
-
+	/*footer css small*/
 	footer {
-		font-family: 'Avro', serif;
+		font-family: 'Chakra Petch', sans-serif;
+		font-weight: bold;
 		background-color: #E9C46A;
 		color: #264253;
 		padding: 10px;

@@ -94,6 +94,7 @@
 		font-size: 1.25rem;
 	}
 
+	/*entry 4 css large*/
 	.entry4 .info h2{
 		font-size: 2rem;
 	}
@@ -109,6 +110,25 @@
 	}
 	.placement p{
 		font-size: 1.25rem;
+	}
+
+	/*entry 5 css large*/
+	.place > .entry5 {
+		padding: .5em;
+	}
+	.entry5 .info h2{
+		font-size: 2rem;
+	}
+	.entry5 .info p{
+		font-size: 1.5rem;
+	}
+	iframe{
+		height: 640px;
+	}
+
+	/*footer css large*/
+	footer {
+		font-size: 1rem;
 	}
 
 	/* dropdown menus */	
