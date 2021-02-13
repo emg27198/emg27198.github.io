@@ -120,12 +120,71 @@
 		font-weight: bold;
 	}
 
+	/*entry 3 css small*/
 	.place > .entry3 {
-		border-radius: 5px;
-		background-color: rgba(58, 87, 67);
 		padding: 1em;
-		margin: 5px;
 	}
+	.entry3 .info h2{
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.entry3 .info p{
+		text-align: center;
+		color: #264253;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+	}
+	.grid2{
+		display: grid;
+		grid-gap: 10px;
+	}
+	.grid2 a:link, .grid1 a:visited{
+		text-decoration: none;
+	}
+	.grid2 a:hover{
+		color: #2A9D8F;
+		text-decoration: underline;
+	}
+	.contain {
+		text-align: center;
+		width: 100%;
+		height: auto;
+		background-color:rgba(244, 162, 97);
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	}
+	#good{
+		width:100%;
+		height:auto;
+	}
+	#neutral{
+		width:100%;
+		height:auto;
+	}
+	#chaotic{
+		width:100%;
+		height:auto;
+	}
+	.holder {
+		padding: 2px 16px;
+	}
+	.holder h3{
+		font-size: 1rem;
+		margin: 0;
+		margin-bottom: 10px;
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.holder p{
+		font-size: .75rem;
+		margin: 0;
+		color: #264253;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+	}
+
+
 	.place > .entry4 {
 		border-radius: 5px;
 		background-color: rgba(58, 87, 67);

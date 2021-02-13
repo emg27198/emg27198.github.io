@@ -63,18 +63,35 @@
 		font-size: 2rem;
 	}
 	.entry2 .info p{
-		font-size: 1rem;
+		font-size: 1.5rem;
 	}
 	.grid1{
 		grid-template-columns: auto auto;
 	}
-
 	.container h3{
 		margin-bottom: 10px;
 		font-size: 2rem;
 	}
 	.container p{
+		font-size: 1.25rem;
+	}
+
+	/*entry 3 css large*/
+	.entry3 .info h2{
+		font-size: 2rem;
+	}
+	.entry3 .info p{
 		font-size: 1.5rem;
+	}
+	.grid2{
+		grid-template-columns: auto auto auto;
+	}
+	.holder h3{
+		margin-bottom: 10px;
+		font-size: 2rem;
+	}
+	.holder p{
+		font-size: 1.25rem;
 	}
 
 	/* dropdown menus */	
