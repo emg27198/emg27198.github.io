@@ -161,7 +161,7 @@
 		width:100%;
 		height:auto;
 	}
-	#chaotic{
+	#hostile{
 		width:100%;
 		height:auto;
 	}
@@ -184,13 +184,66 @@
 		font-weight: bold;
 	}
 
-
+	/*entry 4 css small*/
 	.place > .entry4 {
-		border-radius: 5px;
-		background-color: rgba(58, 87, 67);
 		padding: 1em;
-		margin: 5px;
 	}
+	.entry4 .info h2{
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.entry4 .info p{
+		text-align: center;
+		color: #264253;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+	}
+	.grid3{
+		display: grid;
+		grid-gap: 10px;
+	}
+	.grid3 a:link, .grid1 a:visited{
+		text-decoration: none;
+	}
+	.grid3 a:hover{
+		color: #2A9D8F;
+		text-decoration: underline;
+	}
+	.organize {
+		text-align: center;
+		width: 100%;
+		height: auto;
+		background-color:rgba(244, 162, 97);
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	}
+	#create{
+		width:100%;
+		height:auto;
+	}
+	#survive{
+		width:100%;
+		height:auto;
+	}
+	.placement {
+		padding: 2px 16px;
+	}
+	.placement h3{
+		font-size: 1rem;
+		margin: 0;
+		margin-bottom: 10px;
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.placement p{
+		font-size: .75rem;
+		margin: 0;
+		color: #264253;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+	}
+
 	.place > .entry5 {
 		background-color: rgba(58, 87, 67);
 		border-radius: 5px;

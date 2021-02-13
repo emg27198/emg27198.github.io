@@ -94,6 +94,23 @@
 		font-size: 1.25rem;
 	}
 
+	.entry4 .info h2{
+		font-size: 2rem;
+	}
+	.entry4 .info p{
+		font-size: 1.5rem;
+	}
+	.grid3{
+		grid-template-columns: auto auto;
+	}
+	.placement h3{
+		margin-bottom: 10px;
+		font-size: 2rem;
+	}
+	.placement p{
+		font-size: 1.25rem;
+	}
+
 	/* dropdown menus */	
 	.dropdown-content {
 		width: 50%;
