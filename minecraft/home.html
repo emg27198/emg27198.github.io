@@ -39,8 +39,21 @@
         <button onclick="toggleMenu()">Options</button>
         <ul id="primaryNav" class="hide">
             <li class="active"><a href="home.html">Home</a></li>
-            <li><a href="#">Materials</a></li>
-            <li><a href="#">Mobs</a></li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Materials</a>
+                <div class="dropdown-content">
+                    <a href="#">Renewable</a>
+                    <a href="#">Non-renewable</a>
+                </div>
+            </li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Mobs</a>
+                <div class="dropdown-content">
+                    <a href="#">Good</a>
+                    <a href="#">Neutral</a>
+                    <a href="#">Chaotic</a>
+                </div>
+            </li>
             <li><a href="#">Servers</a></li>
             <li><a href="#">Tutorials</a></li>
         </ul>
@@ -50,6 +63,8 @@
 
             <div class="herodiv">
                 <picture>
+                    <source srcset="/minecraft/imgs/hero_images/hero1small.png" media="(min-width:35rem) and (max-width:40em )">
+                    <source srcset="/minecraft/imgs/hero_images/hero1large.png" media="(min-width:64em)">
                     <img id="hero" src="/minecraft/imgs/hero_images/hero1.png" alt="hero_image">
                 </picture>
                 <section class="title">
@@ -74,7 +89,11 @@
                 <div class="grid1">
                 <a href="#">
                     <div class="card">
-                        <img src="/minecraft/imgs/wood/oak.png" alt="renewable_materials">
+                        <picture>
+                            <source srcset="/minecraft/imgs/home_page_imgs/oaksmall.png" media="(min-width:35rem) and (max-width:40em )">
+                            <source srcset="/minecraft/imgs/home_page_imgs/oaklarge.png" media="(min-width:64em)">
+                            <img id="renew" src="/minecraft/imgs/wood/oak.png" alt="hero_image">
+                        </picture>
                         <div class="container">
                             <h3><b>Renewable Materials</b></h3>
                             <p>Renewable items in Minecraft are items that will respawn over time, can be crafted
@@ -86,7 +105,11 @@
 
                 <a href="#">
                     <div class="card">
-                        <img src="/minecraft/imgs/stone/stone1.png" alt="non-renewable_materials">
+                        <picture>
+                            <source srcset="/minecraft/imgs/home_page_imgs/stone1small.png" media="(min-width:35rem) and (max-width:40em )">
+                            <source srcset="/minecraft/imgs/home_page_imgs/stone1large.png" media="(min-width:64em)">
+                            <img id="nonrenew" src="/minecraft/imgs/stone/stone1.png" alt="hero_image">
+                        </picture>
                         <div class="container">
                             <h3><b>Non-renewable Materials</b></h3>
                             <p>Non-renewable items in Minecraft are items that will not respawn over time, cannot be crafted,
