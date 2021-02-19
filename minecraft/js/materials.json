@@ -4,10 +4,11 @@
         "item": "Blaze Powder",
         "photo": "/minecraft/imgs/brewing/blaze_powder.png",
         "drop": "Blaze, located in the Nether",
+        "difficult": "6 out of 10",
         "applicate": [
-          "Honda Metropolitan (49cc) - 1 person",
-          "Honda Dio (110cc) - 2 person",
-          "Honda PCX150 (149cc) - 2 person"
+          "Feuling Brewing Stand",
+          "Brewing Strength Potions",
+          "Making Eyes of Ender"
         ]
       }
     ],
@@ -18,9 +19,9 @@
             "photo": "/minecraft/imgs/brewing/blaze_powder.png",
             "drop": "Blaze, located in the Nether",
             "applicate": [
-              "Honda Metropolitan (49cc) - 1 person",
-              "Honda Dio (110cc) - 2 person",
-              "Honda PCX150 (149cc) - 2 person"
+                "Feuling Brewing Stand",
+                "Brewing Strength Potions",
+                "Making Eyes of Ender"
             ]
       }
     ]
