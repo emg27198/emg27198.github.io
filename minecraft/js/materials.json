@@ -1,14 +1,29 @@
 {
     "renew": [
       {
-        "item": "Blaze Powder",
-        "photo": "/minecraft/imgs/brewing/blaze_powder.png",
-        "drop": "Blaze, located in the Nether",
-        "difficult": "6 out of 10",
-        "applicate": [
-          "Feuling Brewing Stand",
-          "Brewing Strength Potions",
-          "Making Eyes of Ender"
+        "brew": [
+            {
+                "item": "Blaze Powder",
+                "photo": "/minecraft/imgs/brewing/blaze_powder.png",
+                "drop": "Blaze, located in the Nether",
+                "difficult": "6 out of 10",
+                "applicate": [
+                "Feuling Brewing Stand",
+                "Brewing Strength Potions",
+                "Making Eyes of Ender"
+                        ]
+                    },
+            {
+                "item": "Dragon's Breath",
+                "photo": "/minecraft/imgs/brewing/blaze_powder.png",
+                "drop": "Blaze, located in the Nether",
+                "difficult": "6 out of 10",
+                "applicate": [
+                  "Feuling Brewing Stand",
+                  "Brewing Strength Potions",
+                  "Making Eyes of Ender"
+                        ]
+                    }
         ]
       }
     ],

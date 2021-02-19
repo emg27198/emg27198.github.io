@@ -1,6 +1,6 @@
 const requestURL = 'js/materials.json';
 
-
+//brewing section
 fetch(requestURL)
   .then(function (response) {
     return response.json();
@@ -19,24 +19,24 @@ fetch(requestURL)
         let para1 = document.createElement('p');
         let para2 = document.createElement('p');
 
-        h2.textContent = jsonObject.renew[i].item;
+        h2.textContent = jsonObject.renew[i].brew[0].item;
         card.appendChild(h2);
 
-        line.textContent = jsonObject.renew[i].drop;
+        line.textContent = jsonObject.renew[i].brew[0].drop;
         card.appendChild(line);
-        diff.textContent = jsonObject.renew[i].difficult;
+        diff.textContent = jsonObject.renew[i].brew[0].difficult;
         card.appendChild(diff);
 
-        para.textContent = jsonObject.renew[i].applicate[0];
+        para.textContent = jsonObject.renew[i].brew[0].applicate[0];
         card.appendChild(para);
-        para1.textContent = jsonObject.renew[i].applicate[1];
+        para1.textContent = jsonObject.renew[i].brew[0].applicate[1];
         card.appendChild(para1);
-        para2.textContent = jsonObject.renew[i].applicate[2];
+        para2.textContent = jsonObject.renew[i].brew[0].applicate[2];
         card.appendChild(para2);
         
 
-        photo.setAttribute('src', jsonObject.renew[i].photo);
-        photo.setAttribute('alt', jsonObject.renew[i].item);
+        photo.setAttribute('src', jsonObject.renew[i].brew[0].photo);
+        photo.setAttribute('alt', jsonObject.renew[i].brew[0].item);
         image.appendChild(photo);
 
         document.querySelector('div.cards').appendChild(card);
