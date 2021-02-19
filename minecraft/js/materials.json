@@ -1,0 +1,27 @@
+{
+    "renew": [
+      {
+        "item": "Blaze Powder",
+        "photo": "/minecraft/imgs/brewing/blaze_powder.png",
+        "drop": "Blaze, located in the Nether",
+        "applicate": [
+          "Honda Metropolitan (49cc) - 1 person",
+          "Honda Dio (110cc) - 2 person",
+          "Honda PCX150 (149cc) - 2 person"
+        ]
+      }
+    ],
+
+    "nonenew": [
+        {
+            "item": "Blaze Powder",
+            "photo": "/minecraft/imgs/brewing/blaze_powder.png",
+            "drop": "Blaze, located in the Nether",
+            "applicate": [
+              "Honda Metropolitan (49cc) - 1 person",
+              "Honda Dio (110cc) - 2 person",
+              "Honda PCX150 (149cc) - 2 person"
+            ]
+      }
+    ]
+  }

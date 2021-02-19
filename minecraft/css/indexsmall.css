@@ -281,6 +281,9 @@
 		height: 320px;
 	}
 
+
+	
+
 	/*footer css small*/
 	footer {
 		font-family: 'Chakra Petch', sans-serif;
@@ -387,7 +390,7 @@
 	}
 
 	.dropdown-content a {
-		color: black;
+		color: #264253;
 		padding: .8rem 2%;
 		text-decoration: none;
 		display: block;
