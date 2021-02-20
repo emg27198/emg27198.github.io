@@ -1,0 +1,960 @@
+{
+    "brew": [
+        {
+        "item": "Blaze Powder",
+        "mob": "Blaze",
+        "location": "The Nether",
+        "craft": "crafting table, blaze rod.",
+        "photo": "/minecraft/imgs/brewing/blaze_powder.png",
+        "difficult": "Medium",
+        "applicate": [
+        "Fueling Brewing Stand",
+        "Brewing Strength Potions",
+        "Making Eyes of Ender"
+        ]
+        },
+        {
+        "item": "Dragon's Breath",
+        "mob": "Ender Dragon",
+        "location": "The End",
+        "craft": "glass bottle, ender dragon breath attack or fireball",
+        "photo": "/minecraft/imgs/brewing/dragons_breath.png",
+        "difficult": "Hard",
+        "applicate": [
+        "Brewing Lingering Potion"
+        ]
+        },
+        {
+        "item": "Fermented Spider Eye",
+        "mob": "NOT AN ITEM DROP",
+        "location": "NO LOCATION",
+        "craft": "crafting table, sugar cane, brown mushroom, spider eye",
+        "photo": "/minecraft/imgs/brewing/fermented_spider_eye.png",
+        "difficult": "Easy",
+        "applicate": [
+        "Feuling Brewing Stand",
+        "Brewing Strength Potions",
+        "Making Eyes of Ender"
+        ]
+        },
+        {
+        "item": "Ghast Tear",
+        "mob": "Ghast",
+        "location": "The Nether",
+        "craft": "CANNOT BE CRAFTED",
+        "photo": "/minecraft/imgs/brewing/ghast_tear.png",
+        "difficult": "Medium",
+        "applicate": [
+        "Brewing Mundane Potion",
+        "Brewing Potion of Regeneration",
+        "Making End Crystal"
+        ]
+        },
+        {
+        "item": "Glass Bottle",
+        "mob": "Witches",
+        "location": "NO LOCATION",
+        "craft": "crafting table, glass",
+        "photo": "/minecraft/imgs/brewing/glass_bottle.png",
+        "difficult": "Easy",
+        "applicate": [
+        "Collecting Liquids",
+        "Brewing Potions and Poisons",
+        "Bottling Honey"
+        ]
+        },
+        {
+        "item": "Glistering Melon Slice",
+        "mob": "NOT AN ITEM DROP",
+        "location": "Ruined Nether Portals",
+        "craft": "crafting table, gold nuggets, melon slice",
+        "photo": "/minecraft/imgs/brewing/glistering_melon_slice.png",
+        "difficult": "Easy",
+        "applicate": [
+        "Brewing Mundane and Potions of Healing",
+        "Bartering with Piglins"
+        ]
+        },
+        {
+        "item": "Golden Carrot",
+        "mob": "NOT AN ITEM DROP",
+        "location": "Bastion Remnants, Ruined Nether Portals",
+        "craft": "crafting table, gold nuggets, carrot",
+        "photo": "/minecraft/imgs/brewing/golden_carrot.png",
+        "difficult": "Easy",
+        "applicate": [
+            "Food and Animal Taming and Breeding",
+            "Brewing Potion of Night Vision"
+        ]
+        },
+        {
+        "item": "Magma Cream",
+        "mob": "Magma Cube",
+        "location": "The Nether, Bastion Remnant",
+        "craft": "crafting table, blaze powder, slime",
+        "photo": "/minecraft/imgs/brewing/magma_cream.png",
+        "difficult": "Medium",
+        "applicate": [
+        "Brewing Mundane and Potion of Fire Resistance",
+        "Creating Magma Blocks"
+        ]
+        },
+        {
+        "item": "Phantom Membrane",
+        "mob": "Phantoms",
+        "location": "Minecraft Normal World",
+        "craft": "CANNOT BE CRAFTED",
+        "photo": "/minecraft/imgs/brewing/phantom_membrane.png",
+        "difficult": "Medium",
+        "applicate": [
+        "Repairing Elytras",
+        "Brewing Slow Falling Potions"
+        ]
+        },
+        {
+        "item": "Rabbits Foot",
+        "mob": "Rabbit, Fox",
+        "location": "Minecraft Normal World",
+        "craft": "CANNOT BE CRAFTED",
+        "photo": "/minecraft/imgs/brewing/rabbits_foot.png",
+        "difficult": "Easy",
+        "applicate": [
+        "Brewing Mundane Potion",
+        "Brewing Potion of Leaping"
+        ]
+    }
+],
+
+    "dirt": [
+        {
+        "item": "Brick",
+        "mob": "NOT AN ITEM DROP",
+        "location": "NO LOCATION",
+        "craft": "furnace, clay",
+        "photo": "/minecraft/imgs/dirt/brick.png",
+        "difficult": "Easy",
+        "applicate": [
+        "Crafting Brick Block for Construction",
+        "Crafting Flower Pots for Plants"
+        ]
+        },
+        {
+        "item": "Coarse Dirt",
+        "mob": "NOT AN ITEM DROP",
+        "location": "Giant Tree Taiga, Wooded Badlands Plateau, Modified Wooded Badlands Plateau, Shattered Savanna, Shattered Savanna Plateau",
+        "craft": "crafting table, gravel, dirt",
+        "photo": "/minecraft/imgs/dirt/coarse_dirt.png",
+        "difficult": "Easy",
+        "applicate": [
+        "Used to Grow Saplings, Sugar Cane, Mushrooms, Bamboo, and Sweet Berries"
+        ]
+        },
+        {
+        "item": "Glass",
+        "mob": "NOT AN ITEM DROP",
+        "location": "Magenta Glass can be found in end cities...",
+        "craft": "furnace, sand",
+        "photo": "/minecraft/imgs/dirt/glass.png",
+        "difficult": "Easy",
+        "applicate": [
+        "Crafted to Make Beacons, Daylight Detectors, End Crystals, and Glass Panes"
+        ]
+        }
+],
+
+    "end": [
+    {
+    "item": "Ender Pearl",
+    "mob": "Enderman",
+    "location": "The End, The Nether, Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/end/ender_pearl.png",
+    "difficult": "Medium",
+    "applicate": [
+    "Teleports the Player",
+    "Used to Make Eyes of Ender"
+    ]
+    },
+    {
+    "item": "Eye of Ender",
+    "mob": "NOT AN ITEM DROP",
+    "location": "NO LOCATION",
+    "craft": "crafting table, ender pearl, blaze powder",
+    "photo": "/minecraft/imgs/end/eye_of_ender.png",
+    "difficult": "Hard",
+    "applicate": [
+    "Used to Locate the End Portal",
+    "Used to Unlock the End Portal"
+    ]
+    },
+    {
+    "item": "Shulker Shell",
+    "mob": "Shulker",
+    "location": "The End",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/end/shulker_shell.png",
+    "difficult": "Hard",
+    "applicate": [
+    "Used to Craft Shulker Boxes"
+    ]
+}
+],
+
+    "food": [
+    {
+    "item": "Apple",
+    "mob": "Drops from Oak Trees",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED, ONLY GROWN",
+    "photo": "/minecraft/imgs/food/apple.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Eating for Health Regeneration",
+    "Crafting Golden and Enchanted Golden Apples"
+    ]
+    },
+    {
+    "item": "Potato",
+    "mob": "Villagers grow them in their villages",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED, ONLY GROWN",
+    "photo": "/minecraft/imgs/food/potato.png",
+    "difficult": "Easy",
+    "applicate": [
+        "Used for Crafting Baked Potatoes",
+        "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Beetroot",
+    "mob": "Villagers grow them in their villages",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED, ONLY GROWN",
+    "photo": "/minecraft/imgs/food/beetroot.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to Craft Beetroot Soup",
+    "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Carrot",
+    "mob": "Villagers grow them in their villages",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED, ONLY GROWN",
+    "photo": "/minecraft/imgs/food/carrot.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to Craft Golden Carrots",
+    "Used to Tame and Breed Rabbits",
+    "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Chicken Egg",
+    "mob": "Chickens",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED, CHICKENS LAY THEM",
+    "photo": "/minecraft/imgs/food/chicken_egg.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to Craft Pumpkin Pies and Cakes"
+    ]
+    },
+    {
+    "item": "Cocoa Beans",
+    "mob": "Drops from Jungle Trees",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED, ONLY GROWN",
+    "photo": "/minecraft/imgs/food/cocoa_beans.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to Craft Cookies and Brown Dye",
+    "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Melon",
+    "mob": "NOT AN ITEM DROP",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED, ONLY GROWN",
+    "photo": "/minecraft/imgs/food/melon.png",
+    "difficult": "Easy",
+    "applicate": [
+        "Used to Craft Melon and Glistering Melon Slices",
+        "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Honeycomb",
+    "mob": "Bees, Beehives",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED, ONLY DROPPED BY BEES",
+    "photo": "/minecraft/imgs/food/honeycomb.png",
+    "difficult": "Medium",
+    "applicate": [
+    "Used to Craft Bottles of Honey",
+    "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Pumpkin",
+    "mob": "NOT AN ITEM DROP",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED, ONLY GROWN",
+    "photo": "/minecraft/imgs/food/pumpkin.png",
+    "difficult": "Medium",
+    "applicate": [
+    "Used to Craft Jack-O-Lanters",
+    "Used to Build Snow Golems",
+    "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Beef",
+    "mob": "Cow",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/food/raw_beef.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to Craft Steak",
+    "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Chicken",
+    "mob": "Chicken",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/food/raw_chicken.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to Craft Cooked Chicken",
+    "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Cod",
+    "mob": "Cod",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/food/raw_cod.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to Craft Cooked Cod",
+    "Used to Tame and Breed Cats and Ocelots",
+    "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Mutton",
+    "mob": "Sheep",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/food/raw_mutton.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to Craft Cooked Mutton",
+    "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Pork Chop",
+    "mob": "Pig",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/food/raw_porkchop.png",
+    "difficult": "Easy",
+    "applicate": [
+    "BUsed for Crafting Cooked Pork Chops",
+    "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Rabbit",
+    "mob": "Rabbit",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/food/raw_rabbit.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used for Crafting Rabbit Stew and Cooked Rabbit",
+    "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Salmon",
+    "mob": "Salmon",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/food/raw_salmon.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to Tame Cats and Ocelots",
+    "Used to Craft Cooked Salmon",
+    "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Snow Berries",
+    "mob": "Fox",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/food/snowberry.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to Tame and Breed Foxes",
+    "Eaten for Health Regeneration"
+    ]
+    },
+    {
+    "item": "Sugar",
+    "mob": "NOT AN ITEM DROP",
+    "location": "Minecraft Normal World",
+    "craft": "crafting table, sugar cane",
+    "photo": "/minecraft/imgs/food/sugar.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to craft cookies, cake, and paper"
+    ]
+    },
+    {
+    "item": "Wheat",
+    "mob": "NOT AN ITEM DROP",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED, ONLY GROWN",
+    "photo": "/minecraft/imgs/food/wheat.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to Craft Cake and Bread",
+    "Used to Craft Haybales"
+    ]
+}
+],
+
+    "misc": [
+    {
+    "item": "Bone",
+    "mob": "Skeleton",
+    "location": "The Nether, Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/misc/bone.png",
+    "difficult": "Medium",
+    "applicate": [
+    "Used to Craft Bone Meal",
+    "Used to Tame Wolves"
+    ]
+    },
+    {
+    "item": "Cob Web",
+    "mob": "Spiders, Spider Webs",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/misc/cobweb.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to Craft String, Wool, and Bows"
+    ]
+    },
+    {
+    "item": "Feather",
+    "mob": "Chicken",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/misc/feather.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used for Crafting Arrows"
+    ]
+    },
+    {
+    "item": "Flint",
+    "mob": "NOT AN ITEM DROP",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/misc/flint.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used for Crafting Arrows"
+    ]
+    },
+    {
+    "item": "Gun Powder",
+    "mob": "Creeper",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/misc/gunpowder.png",
+    "difficult": "Medium",
+    "applicate": [
+    "Used to Craft TNT"
+    ]
+    },
+    {
+    "item": "Leather",
+    "mob": "Cows, Horses",
+    "location": "Minecraft Normal World",
+    "craft": "crafting table, rabbit skins",
+    "photo": "/minecraft/imgs/misc/leather.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to Craft Books, Item Frames, and Armor"
+    ]
+    },
+    {
+    "item": "Rabbit Skin",
+    "mob": "Rabbit",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/misc/rabbit_skin.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used to Craft Leather"
+    ]
+    },
+    {
+    "item": "Rotten Flesh",
+    "mob": "Zombie",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/misc/rotten_flesh.png",
+    "difficult": "Easy",
+    "applicate": [
+        "Used to Trade with Certain Villagers"
+    ]
+    },
+    {
+    "item": "Slime Ball",
+    "mob": "Slime",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/misc/slime_ball.png",
+    "difficult": "Medium",
+    "applicate": [
+    "Used to Craft Magma Cream, Leads, and Sticky Pistons"
+    ]
+    },
+    {
+    "item": "Spider Eye",
+    "mob": "Spider",
+    "location": "Minecraft Normal World",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/misc/spider_eye.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used for Crafting Fermented Spider Eyes"
+    ]
+    },
+    {
+    "item": "Wool",
+    "mob": "Sheep",
+    "location": "Minecraft Normal World",
+    "craft": "crafting table, string",
+    "photo": "/minecraft/imgs/misc/white_wool.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Used for Crafting Beds, Banners, and Carpet",
+    "Can Have Dyes Applied for Different Colors"
+    ]
+}
+],
+
+    "nether": [
+    {
+    "item": "Blaze Rod",
+    "mob": "Blaze",
+    "location": "The Nether",
+    "craft": "CANNOT BE CRAFTED",
+    "photo": "/minecraft/imgs/nether/blaze_rod.png",
+    "difficult": "Medium",
+    "applicate": [
+    "Used to Craft Blaze Powder"
+    ]
+    },
+    {
+    "item": "Glowstone",
+    "mob": "NOT AN ITEM DROP",
+    "location": "The Nether",
+    "craft": "crafting table, glowstone dust",
+    "photo": "/minecraft/imgs/nether/glowstone.png",
+    "difficult": "Hard",
+    "applicate": [
+    "Break for Glowstone Dust"
+    ]
+    },
+    {
+    "item": "Magma Block",
+    "mob": "NOT AN ITEM DROP",
+    "location": "The Nether",
+    "craft": "crafting table, magma creams",
+    "photo": "/minecraft/imgs/nether/magma_block.png",
+    "difficult": "Medium",
+    "applicate": [
+    "Used for Extra Protection Around your Home Base"
+    ]
+    },
+    {
+    "item": "Nether Brick",
+    "mob": "NOT AN ITEM DROP",
+    "location": "The Nether",
+    "craft": "furnace, netherrack",
+    "photo": "/minecraft/imgs/nether/nether_brick.png",
+    "difficult": "Medium",
+    "applicate": [
+    "Used to Build Walls for Base"
+    ]
+    },
+    {
+    "item": "Netherwart",
+    "mob": "NOT AN ITEM DROP",
+    "location": "Nether Fortresses",
+    "craft": "CANNOT BE CRAFTED< ONLY GROWN WITH SOUL SAND",
+    "photo": "/minecraft/imgs/nether/netherwart.png",
+    "difficult": "Easy",
+    "applicate": [
+    "Collecting Liquids",
+    "Brewing Potions and Poisons",
+    "Bottling Honey"
+    ]
+    },
+    {
+    "item": "Obsidian",
+    "mob": "NOT AN ITEM DROP",
+    "location": "Nether, Minecraft Normal World",
+    "craft": "lava, water",
+    "photo": "/minecraft/imgs/nether/obsidian.png",
+    "difficult": "Hard",
+    "applicate": [
+    "Used for Building and Finishing Nether Portals"
+    ]
+}
+],
+
+    "plants": [
+    {
+    "item": "Allium",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/allium.png",
+    "applicate": [
+    "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "Azure Bluet",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/azure_bluet.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "Blue Orchid",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/blue_orchid.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "Cornflower",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/cornflower.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "Dandelion",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/dandelion.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "Lilac",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/lilac.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "Lily of the Valley",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/lily_of_the_valley.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "Orange Tulip",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/orange_tulip.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "Oxeye Daisy",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/oxeye_daisy.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "Peonies",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/peonies.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "Pink Tulip",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/pink_tulip.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "Poppy",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/poppy.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "Red Tulip",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/red_tulip.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "Roses",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/roses.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "Sunflower",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/sunflower.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+    },
+    {
+    "item": "White Tulip",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/plants/white_tulip.png",
+    "applicate": [
+        "Used for Crafting Dyes"
+    ]
+}
+],
+
+    "tools": [
+    {
+    "item": "Bow",
+    "armor": "NONE",
+    "tools": "Bow",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/bow.png"
+    },
+    {
+    "item": "Clock",
+    "armor": "NONE",
+    "tools": "Clock",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/clock.png"
+    },
+    {
+    "item": "Compass",
+    "armor": "NONE",
+    "tools": "Compass",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/compass.png"
+    },
+    {
+    "item": "Crossbow",
+    "armor": "NONE",
+    "tools": "Crossbow",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/crossbow.png"
+    },
+    {
+    "item": "Fishing Rod",
+    "armor": "NONE",
+    "tools": "Fishing Rod",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/fishing_rod.png"
+    },
+    {
+    "item": "Flint and Steel",
+    "armor": "NONE",
+    "tools": "Flint and Steel",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/flint_and_steel.png"
+    },
+    {
+    "item": "Shears",
+    "armor": "NONE",
+    "tools": "Shears",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/shear.png"
+    },
+    {
+    "item": "Shield",
+    "armor": "NONE",
+    "tools": "Shield",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/shield.png"
+    },
+    {
+    "item": "Tag",
+    "armor": "NONE",
+    "tools": "Tag",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/tag.png"
+    },
+    {
+    "item": "Totem of Undying",
+    "armor": "NONE",
+    "tools": "Totem of Undying",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/totem_of_undying.png"
+    },
+    {
+    "item": "Trident",
+    "armor": "NONE",
+    "tools": "Trident",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/trident.png"
+    },
+    {
+    "item": "Turtle Shell",
+    "armor": "NONE",
+    "tools": "Turtle Shell",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/turtle_shell.png"
+    
+    },
+    {
+    "item": "Chainmail Armor and Tools",
+    "armor": "Boots, Chestplate, Helmet, Leggings",
+    "tools": "NONE",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/chainmail_chestplate.png"
+    
+    },
+    {
+    "item": "Diamond Armor and Tools",
+    "armor": "Boots, Chestplate, Helmet, Leggings",
+    "tools": "Axe, Pickaxe, Hoe, Shovel, Sword",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/diamond_chestplate.png"
+    
+    },
+    {
+    "item": "Gold Armor and Tools",
+    "armor": "Boots, Chestplate, Helmet, Leggings",
+    "tools": "Axe, Pickaxe, Hoe, Shovel, Sword",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/gold_chestplate.png"
+    },
+    {
+    "item": "Iron Armor and Tools",
+    "armor": "Boots, Chestplate, Helmet, Leggings",
+    "tools": "Axe, Pickaxe, Hoe, Shovel, Sword",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/iron_chestplate.png"
+    },
+    {
+    "item": "Leather Armor",
+    "armor": "Boots, Tunic, Cap, Pants",
+    "tools": "NONE",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/leather_tunic.png"
+    },
+    {
+    "item": "Netherite Armor and Tools",
+    "armor": "Boots, Chestplate, Helmet, Leggings",
+    "tools": "Axe, Pickaxe, Hoe, Shovel, Sword",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/netherite_chestplate.png"
+    },
+    {
+    "item": "Stone Tools",
+    "armor": "NONE",
+    "tools": "Axe, Pickaxe, Hoe, Shovel, Sword",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/stone_pickaxe.png"
+    },
+    {
+    "item": "Wood Tools",
+    "armor": "NONE",
+    "tools": "Axe, Pickaxe, Hoe, Shovel, Sword",
+    "craft": "CRAFTABLE",
+    "photo": "/minecraft/imgs/tools/wood_pickaxe.png"
+}
+],
+
+    "wood": [
+    {
+    "item": "Acacia",
+    "tree": "Acacia Tree",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/wood/acacia.png"
+    },
+    {
+    "item": "Birch",
+    "tree": "Birch Tree",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/wood/birch.png"
+    },
+    {
+    "item": "Crimson Stem",
+    "tree": "Crimson Tree",
+    "location": "The Nether",
+    "photo": "/minecraft/imgs/wood/crimson_stem.png"
+    },
+    {
+    "item": "Dark Oak",
+    "tree": "Dark Oak Tree",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/wood/dark_oak.png"
+    },
+    {
+    "item": "Jungle",
+    "tree": "Jungle Tree",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/wood/jungle.png"
+    },
+    {
+    "item": "Oak",
+    "tree": "Oak Tree",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/wood/oak.png"
+    },
+    {
+    "item": "Spruce",
+    "tree": "Spruce Tree",
+    "location": "Minecraft Normal World",
+    "photo": "/minecraft/imgs/wood/spruce.png"
+    },
+    {
+    "item": "Warped Stem",
+    "tree": "Warped Tree",
+    "location": "The Nether",
+    "photo": "/minecraft/imgs/wood/warped_stem.png"
+    }
+]
+  }

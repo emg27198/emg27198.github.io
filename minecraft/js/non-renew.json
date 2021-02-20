@@ -1,0 +1,273 @@
+{
+    "dirt": [
+        {
+            "item": "Clay",
+            "aquire": "Shovel",
+            "photo": "/minecraft/imgs/dirt/clay.png"
+            },
+            {
+            "item": "Crimson Nylium",
+            "aquire": "Shovel",
+            "photo": "/minecraft/imgs/dirt/crimson_nylium.png"
+            },
+            {
+            "item": "Dirt",
+            "aquire": "Shovel",
+            "photo": "/minecraft/imgs/dirt/dirt.png"
+            },
+            {
+            "item": "Grass",
+            "aquire": "Shovel",
+            "photo": "/minecraft/imgs/dirt/grass.png"
+            },
+            {
+            "item": "Gravel",
+            "aquire": "Shovel",
+            "photo": "/minecraft/imgs/dirt/gravel.png"
+            },
+            {
+            "item": "Mycelium",
+            "aquire": "Shovel",
+            "photo": "/minecraft/imgs/dirt/mycelium.png"
+            },
+            {
+            "item": "Podzol",
+            "aquire": "Shovel",
+            "photo": "/minecraft/imgs/dirt/podzol.png"
+            },
+            {
+            "item": "Red Sand",
+            "aquire": "Shovel",
+            "photo": "/minecraft/imgs/dirt/red_sand.png"
+            },
+            {
+            "item": "Warped Nylium",
+            "aquire": "Shovel",
+            "photo": "/minecraft/imgs/dirt/warped_nylium.png"
+            }
+],
+
+    "end": [
+        {
+            "item": "End Stone",
+            "aquire": "Iron Pickaxe",
+            "photo": "/minecraft/imgs/end/end_stone.png"
+            },
+            {
+            "item": "Purpur Block",
+            "aquire": "Iron Pickaxe",
+            "photo": "/minecraft/imgs/end/purpur_block.png"
+            }
+],
+
+    "misc": [
+        {
+            "item": "Flint",
+            "aquire": "Shovel",
+            "photo": "/minecraft/imgs/misc/flint.png"
+            },
+            {
+            "item": "Haybale",
+            "aquire": "Wheat",
+            "photo": "/minecraft/imgs/misc/hay_bale.png"
+            },
+            {
+            "item": "Heart of the Sea",
+            "aquire": "Iron Pickaxe",
+            "photo": "/minecraft/imgs/misc/heart_of_the_sea.png"
+            },
+            {
+            "item": "Sponge",
+            "aquire": "Defeat the Guardian Boss",
+            "photo": "/minecraft/imgs/misc/sponge.png"
+            },
+            {
+            "item": "Tropical Fish",
+            "aquire": "Fishing Pole",
+            "photo": "/minecraft/imgs/misc/tropical_fish.png"
+            }
+],
+
+    "nether": [
+        {
+            "item": "Basalt",
+            "aquire": "Iron Pickaxe",
+            "photo": "/minecraft/imgs/nether/basalt.png"
+            },
+            {
+            "item": "Blackstone",
+            "aquire": "Iron Pickaxe",
+            "photo": "/minecraft/imgs/nether/blackstone.png"
+            },
+            {
+            "item": "Crying Obsidian",
+            "aquire": "Iron Pickaxe",
+            "photo": "/minecraft/imgs/nether/crying_obsidian.png"
+            },
+            {
+            "item": "Gilded Blackstone",
+            "aquire": "Iron Pickaxe",
+            "photo": "/minecraft/imgs/nether/gilded_blackstone.png"
+            },
+            {
+            "item": "Nether Quartz",
+            "aquire": "Iron Pickaxe",
+            "photo": "/minecraft/imgs/nether/nether_quartz.png"
+            },
+            {
+            "item": "Soul Sand",
+            "aquire": "Shovel",
+            "photo": "/minecraft/imgs/nether/soul_sand.png"
+            },
+            {
+            "item": "Soul Soil",
+            "aquire": "Shovel",
+            "photo": "/minecraft/imgs/nether/soul_soil.png"
+            }
+    ],
+
+    "ore": [
+        {
+            "item": [
+                "Coal Ore",
+                "Coal"
+            ],
+            "aquire": "Pickaxe",
+            "photo": [
+                "/minecraft/imgs/ore/coal_ore.png",
+                "/minecraft/imgs/misc/coal.png"
+            ]
+            },
+            {
+            "item": [
+                "Diamond Ore",
+                "Diamond"
+            ],
+            "aquire": "Iron Pickaxe",
+            "photo": [
+                "/minecraft/imgs/ore/diamond_ore.png",
+                "/minecraft/imgs/ore/diamond.png"
+            ]
+            },
+            {
+            "item": [
+                "Emerald Ore",
+                "Emerald"
+            ],
+            "aquire": "Iron Pickaxe",
+            "photo": [
+                "/minecraft/imgs/ore/emerald_ore.png",
+                "/minecraft/imgs/ore/emerald.png"
+            ]
+            },
+            {
+            "item": [
+                "Gold Ore",
+                "Gold Ingot"
+            ],
+            "aquire": "Iron Pickaxe",
+            "photo": [
+                "/minecraft/imgs/ore/gold_ore.png",
+                "/minecraft/imgs/ore/gold_ingot.png"
+            ]
+            },
+            {
+            "item": [
+                "Iron Ore",
+                "Iron Ingot"
+            ],
+            "aquire": "Stone Pickaxe",
+            "photo": [
+                "/minecraft/imgs/ore/iron_ore.png",
+                "/minecraft/imgs/ore/iron_ingot.png"
+            ]
+            },
+            {
+            "item": [
+                "Lapis Lazuli Ore",
+                "Lapis Lazuli"
+            ],
+            "aquire": "Iron Pickaxe",
+            "photo": [
+                "/minecraft/imgs/ore/lapis_lazuli_ore.png",
+                "/minecraft/imgs/ore/lapis_lazuli.png"
+            ]
+            },
+            {
+            "item": [
+                "Nether Quartz Ore",
+                "Nether Quartz"
+            ],
+            "aquire": "Iron Pickaxe",
+            "photo": [
+                "/minecraft/imgs/ore/nether_quartz_ore.png",
+                "/minecraft/imgs/nether/nether_quartz.png"
+            ]
+            },
+            {
+            "item": [
+                "Netherite Ingot",
+                "Netherite Scrap"
+            ],
+            "aquire": "Fighting Mobs in the Nether",
+            "photo": [
+                "/minecraft/imgs/ore/netherite_ingot.png",
+                "/minecraft/imgs/ore/netherite_scrap.png"
+            ]
+            },
+            {
+            "item": [
+                "Prismarine Crystals",
+                "Prismarine Shards"
+            ],
+            "aquire": "Iron Pickaxe",
+            "photo": [
+                "/minecraft/imgs/ore/prismarine_crystals.png",
+                "/minecraft/imgs/ore/prismarine_shard.png"
+            ]
+            }
+    ],
+
+    "stone": [
+        {
+            "item": "Andesite",
+            "aquire": "Pickaxe",
+            "photo": "/minecraft/imgs/stone/andesite.png"
+            },
+            {
+            "item": "Cobblestone",
+            "aquire": "Pickaxe",
+            "photo": "/minecraft/imgs/stone/cobblestone.png"
+            },
+            {
+            "item": "Diorite",
+            "aquire": "Pickaxe",
+            "photo": "/minecraft/imgs/stone/diorite.png"
+            },
+            {
+            "item": "Granite",
+            "aquire": "Pickaxe",
+            "photo": "/minecraft/imgs/stone/granite.png"
+            },
+            {
+            "item": "Mossy Cobblestone",
+            "aquire": "Pickaxe",
+            "photo": "/minecraft/imgs/stone/mossy_cobblestone.png"
+            },
+            {
+            "item": "Prismarine",
+            "aquire": "Iron Pickaxe",
+            "photo": "/minecraft/imgs/stone/prismarine.png"
+            },
+            {
+            "item": "Stone",
+            "aquire": "Pickaxe with Silk Touch or Using Furnace",
+            "photo": "/minecraft/imgs/stone/stone1.png"
+            },
+            {
+            "item": "Terracotta",
+            "aquire": "Pickaxe",
+            "photo": "/minecraft/imgs/stone/terracotta.png"
+            }
+]
+  }

@@ -138,24 +138,41 @@
 	}
 
 	/*entry 7 css large - renewable materials*/
-	.place > .entry7 {
-		padding: 1em;
-	}
-	.cards{
+	.cards, .cards1, .cards2, .cards3, .cards4, .cards5, .cards6, .cards7, .cards8{
 		display: grid;
 		grid-template-columns: auto auto auto auto;
 		grid-gap: 5px;
 	}
-	.cards section{
-		text-align: center;
-		width: 100%;
-		height: auto;
-		background-color:rgba(244, 162, 97);
-		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	.cards section img, .cards1 section img, .cards2 section img, .cards3 section img, .cards4 section img, .cards5 section img, .cards6 section img, .cards7 section img, .cards8 section img{
+		width: 50%;
 	}
-	.cards section img{
-		width: 75%;
-		height: auto;
+	.cards section h2, .cards1 section h2, .cards2 section h2, .cards3 section h2, .cards4 section h2, .cards5 section h2, .cards6 section h2, .cards7 section h2, .cards8 section h2{
+		font-size: 1.5rem;
+	}
+	.cards section h3, .cards1 section h3, .cards2 section h3, .cards3 section h3, .cards4 section h3, .cards5 section h3, .cards6 section h3, .cards7 section h3, .cards8 section h3{
+		font-size: 1rem;
+	}
+	.cards section p, .cards1 section p, .cards2 section p, .cards3 section p, .cards4 section p, .cards5 section p, .cards6 section p, .cards7 section p, .cards8 section p{
+		font-size: 1rem;
+	}
+
+	/*entry 8 css large - nonrenewable materials*/
+	.carding, .carding1, .carding2, .carding3, .carding4, .carding5{
+		display: grid;
+		grid-template-columns: auto auto auto auto;
+		grid-gap: 5px;	
+	}
+	.carding section img, .carding1 section img, .carding2 section img, .carding3 section img, .carding4 section img, .carding5 section img{
+		width: 50%;
+	}
+	.carding section h2, .carding1 section h2, .carding2 section h2, .carding3 section h2, .carding4 section h2, .carding5 section h2{
+		font-size: 1.5rem;
+	}
+	.carding section h3, .carding1 section h3, .carding2 section h3, .carding3 section h3, .carding4 section h3, .carding5 section h3{
+		font-size: 1rem;
+	}
+	.carding section p, .carding1 section p, .carding2 section p, .carding3 section p, .carding4 section p, .carding5 section p{
+		font-size: 1rem;
 	}
 
 	/*footer css large*/
