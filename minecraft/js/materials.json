@@ -1,32 +1,110 @@
 {
-    "renew": [
-      {
-        "brew": [
-            {
-                "item": "Blaze Powder",
-                "photo": "/minecraft/imgs/brewing/blaze_powder.png",
-                "drop": "Blaze, located in the Nether",
-                "difficult": "6 out of 10",
-                "applicate": [
-                "Feuling Brewing Stand",
-                "Brewing Strength Potions",
-                "Making Eyes of Ender"
-                        ]
-                    },
-            {
-                "item": "Dragon's Breath",
-                "photo": "/minecraft/imgs/brewing/blaze_powder.png",
-                "drop": "Blaze, located in the Nether",
-                "difficult": "6 out of 10",
-                "applicate": [
-                  "Feuling Brewing Stand",
-                  "Brewing Strength Potions",
-                  "Making Eyes of Ender"
-                        ]
-                    }
+    "brew": [
+        {
+        "item": "Blaze Powder",
+        "mob": "Blaze",
+        "location": "The Nether",
+        "photo": "/minecraft/imgs/brewing/blaze_powder.png",
+        "difficult": "6 out of 10",
+        "applicate": [
+        "Fueling Brewing Stand",
+        "Brewing Strength Potions",
+        "Making Eyes of Ender"
         ]
-      }
-    ],
+        },
+        {
+        "item": "Dragon's Breath",
+        "mob": "Ender Dragon",
+        "location": "The End",
+        "photo": "/minecraft/imgs/brewing/dragons_breath.png",
+        "difficult": "6 out of 10",
+        "applicate": [
+        "Feuling Brewing Stand",
+        "Brewing Strength Potions",
+        "Making Eyes of Ender"
+        ]
+        },
+        {
+        "item": "Fermented Spider Eye",
+        "photo": "/minecraft/imgs/brewing/fermented_spider_eye.png",
+        "difficult": "6 out of 10",
+        "applicate": [
+        "Feuling Brewing Stand",
+        "Brewing Strength Potions",
+        "Making Eyes of Ender"
+        ]
+        },
+        {
+        "item": "Ghast Tear",
+        "photo": "/minecraft/imgs/brewing/ghast_tear.png",
+        "difficult": "6 out of 10",
+        "applicate": [
+        "Feuling Brewing Stand",
+        "Brewing Strength Potions",
+        "Making Eyes of Ender"
+        ]
+        },
+        {
+        "item": "Glass Bottle",
+        "photo": "/minecraft/imgs/brewing/glass_bottle.png",
+        "difficult": "6 out of 10",
+        "applicate": [
+        "Feuling Brewing Stand",
+        "Brewing Strength Potions",
+        "Making Eyes of Ender"
+        ]
+        },
+        {
+        "item": "Glistering Melon Slice",
+        "photo": "/minecraft/imgs/brewing/glistering_melon_slice.png",
+        "difficult": "6 out of 10",
+        "applicate": [
+        "Feuling Brewing Stand",
+        "Brewing Strength Potions",
+        "Making Eyes of Ender"
+        ]
+        },
+        {
+        "item": "Golden Carrot",
+        "photo": "/minecraft/imgs/brewing/golden_carrot.png",
+        "difficult": "6 out of 10",
+        "applicate": [
+        "Feuling Brewing Stand",
+        "Brewing Strength Potions",
+        "Making Eyes of Ender"
+        ]
+        },
+        {
+        "item": "Magma Cream",
+        "photo": "/minecraft/imgs/brewing/magma_cream.png",
+        "difficult": "6 out of 10",
+        "applicate": [
+        "Feuling Brewing Stand",
+        "Brewing Strength Potions",
+        "Making Eyes of Ender"
+        ]
+        },
+        {
+        "item": "Phantom Membrane",
+        "photo": "/minecraft/imgs/brewing/phantom_membrane.png",
+        "difficult": "6 out of 10",
+        "applicate": [
+        "Feuling Brewing Stand",
+        "Brewing Strength Potions",
+        "Making Eyes of Ender"
+        ]
+        },
+        {
+        "item": "Rabbits Foot",
+        "photo": "/minecraft/imgs/brewing/rabbits_foot.png",
+        "difficult": "6 out of 10",
+        "applicate": [
+        "Feuling Brewing Stand",
+        "Brewing Strength Potions",
+        "Making Eyes of Ender"
+        ]
+    }
+],
 
     "nonenew": [
         {

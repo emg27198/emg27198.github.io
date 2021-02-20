@@ -59,7 +59,7 @@
 		font-size: 0.80rem;
 	}
 
-/*entry 2 css small*/
+/*entry 2 css small - home page*/
 	.place > .entry2 {
 		border-radius: 5px;
 		padding: .5em;
@@ -120,7 +120,7 @@
 		font-weight: bold;
 	}
 
-	/*entry 3 css small*/
+	/*entry 3 css small - home page*/
 	.place > .entry3 {
 		padding: 1em;
 	}
@@ -184,7 +184,7 @@
 		font-weight: bold;
 	}
 
-	/*entry 4 css small*/
+	/*entry 4 css small - home page*/
 	.place > .entry4 {
 		padding: 1em;
 	}
@@ -244,7 +244,7 @@
 		font-weight: bold;
 	}
 
-	/*entry 5 css small*/
+	/*entry 5 css small - home page*/
 	.place > .entry5 {
 		padding: .5em;
 	}
@@ -281,32 +281,92 @@
 		height: 320px;
 	}
 
+	/*entry 6 css small - renewable materials*/
+	.place > .entry6 {
+		padding: .5em;
+	}
+	.entry6 .info h2{
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.entry6 .info p{
+		text-align: center;
+		color: #264253;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+	}
+	.entry6 .index ul li {
+		font-size: 1rem;
+		font-family: "Chakra Petch", sans-serif;
+		font-weight: bold;
+		list-style-type: none;
+	}
+	.entry6 .index ul li a:link, .entry6 .index ul li a:visited{
+		color: #E9C46A;
+		text-decoration: none;
+	}
+	.entry6 .index ul li a:hover{
+		background-color: transparent;
+		color: white;
+		text-decoration: underline;
+	}
 
-	/* Style the buttons that are used to open and close the accordion panel */
-.accordion {
-	background-color: #eee;
-	color: #444;
-	cursor: pointer;
-	padding: 18px;
-	width: 100%;
-	text-align: left;
-	border: none;
-	outline: none;
-	transition: 0.4s;
-  }
-  
-  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-  .active, .accordion:hover {
-	background-color: #ccc;
-  }
-  
-  /* Style the accordion panel. Note: hidden by default */
-  .panel {
-	padding: 0 18px;
-	background-color: white;
-	display: none;
-	overflow: hidden;
-  }
+	/*entry 7 css small - renewable materials*/
+	.place > .entry7 {
+		padding: 1em;
+	}
+	.entry7 .sectioning{
+		padding: .5rem;
+		border-radius: 10px;
+		background-color: #264253;
+	}
+	.section-title{
+		text-align: center;
+		color: white;
+		font-family: 'Chakra Petch', sans-serif;
+	}
+	.cards{
+		justify-content: center;
+		display: grid;
+		grid-gap: 10px;
+		
+	}
+	.cards section{
+		text-align: center;
+		width: 100%;
+		height: auto;
+		background-color:rgba(244, 162, 97);
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	}
+	.cards section img{
+		margin: 0;
+		padding: 10px;
+		width: 75%;
+		height: auto;
+	}
+	.cards section h2{
+		margin: 0;
+		margin-bottom: 10px;
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.cards section h3{
+		text-decoration: underline;
+		margin: 0;
+		margin-top: 20px;
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.cards section p{
+		margin: 0;
+		margin-bottom: 10px;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+		color: #264253;
+	}
 	
 
 	/*footer css small*/
@@ -393,13 +453,11 @@
 		text-align: center;
 		padding: .8rem 2%;
 	}
-
 	li a:hover, .dropdown:hover .dropbtn {
 		width: 100%;
 		background-color: white;
 		text-decoration: underline;
 	}
-
 	li.dropdown {
 		display: block;
 	}
@@ -413,7 +471,6 @@
 		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 		z-index: 1;
 	}
-
 	.dropdown-content a {
 		color: #264253;
 		padding: .8rem 2%;

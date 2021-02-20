@@ -6,40 +6,41 @@ fetch(requestURL)
     return response.json();
   })
   .then(function (jsonObject) {
-    console.table(jsonObject);  // temporary checking for valid response and data parsing
-    const renew = jsonObject['renew'];
-    for (let i = 0; i < renew.length; i++ ) {
+    console.table(jsonObject);
+    const brew = jsonObject['brew'];
+    for (let i = 0; i < brew.length; i++ ) {
         let card = document.createElement('section');
-        let image = document.createElement('section');
         let h2 = document.createElement('h2');
-        let line = document.createElement('h3');
-        let diff = document.createElement('h4');
-        let photo = document.createElement('img');
+        let locate = document.createElement('p');
+        let use = document.createElement('h3');
+        let diff = document.createElement('p');
         let para = document.createElement('p');
         let para1 = document.createElement('p');
         let para2 = document.createElement('p');
+        let photo = document.createElement('img');
 
-        h2.textContent = jsonObject.renew[i].brew[0].item;
+        photo.setAttribute('src', jsonObject.brew[i].photo);
+        photo.setAttribute('alt', jsonObject.brew[i].item);
+        card.appendChild(photo);
+        
+        h2.textContent = jsonObject.brew[i].item;
         card.appendChild(h2);
 
-        line.textContent = jsonObject.renew[i].brew[0].drop;
-        card.appendChild(line);
-        diff.textContent = jsonObject.renew[i].brew[0].difficult;
+        locate.textContent = "Location: " + jsonObject.brew[i].location;
+        card.appendChild(locate);
+        diff.textContent = "Difficulty: " + jsonObject.brew[i].difficult;
         card.appendChild(diff);
 
-        para.textContent = jsonObject.renew[i].brew[0].applicate[0];
-        card.appendChild(para);
-        para1.textContent = jsonObject.renew[i].brew[0].applicate[1];
-        card.appendChild(para1);
-        para2.textContent = jsonObject.renew[i].brew[0].applicate[2];
-        card.appendChild(para2);
-        
 
-        photo.setAttribute('src', jsonObject.renew[i].brew[0].photo);
-        photo.setAttribute('alt', jsonObject.renew[i].brew[0].item);
-        image.appendChild(photo);
+        use.textContent = "Uses:";
+        card.appendChild(use);
+        para.textContent = jsonObject.brew[i].applicate[0];
+        card.appendChild(para);
+        para1.textContent = jsonObject.brew[i].applicate[1];
+        card.appendChild(para1);
+        para2.textContent = jsonObject.brew[i].applicate[2];
+        card.appendChild(para2);
 
         document.querySelector('div.cards').appendChild(card);
-        document.querySelector('div.image').appendChild(image);
     }
   });
