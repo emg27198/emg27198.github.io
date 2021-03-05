@@ -443,6 +443,37 @@
 		font-weight: bold;
 		color: #264253;
 	}
+
+	/*entry 9 css small - renewable materials*/
+	.place > .entry9 {
+		padding: .5em;
+	}
+	.entry9 .info h2{
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.entry9 .info p{
+		text-align: center;
+		color: #264253;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+	}
+	.entry9 .index ul li {
+		font-size: 1rem;
+		font-family: "Chakra Petch", sans-serif;
+		font-weight: bold;
+		list-style-type: none;
+	}
+	.entry9 .index ul li a:link, .entry6 .index ul li a:visited{
+		color: #E9C46A;
+		text-decoration: none;
+	}
+	.entry9 .index ul li a:hover{
+		background-color: transparent;
+		color: white;
+		text-decoration: underline;
+	}
 	
 
 	/*footer css small*/

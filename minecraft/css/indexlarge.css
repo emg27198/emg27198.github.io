@@ -175,6 +175,38 @@
 		font-size: 1rem;
 	}
 
+
+
+
+
+    .entry10 div.history p{
+        list-style-type: none;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 1.5em;
+        color: #FCEC52;
+    }
+	#image1 {
+        width: 40%;
+        height:auto;
+        margin: 1%;
+        border-radius: 3px;
+        float: left;
+    }
+    
+    .entry11 div.history p{
+        list-style-type: none;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 1.5em;
+        color: #FCEC52;
+    }
+	#image2 {
+        width:40%;
+        height:auto;
+        margin: 1%;
+        border-radius: 3px;
+        float: right;
+    }
+
 	/*footer css large*/
 	footer {
 		font-size: 1rem;
