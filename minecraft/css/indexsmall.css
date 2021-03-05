@@ -444,7 +444,7 @@
 		color: #264253;
 	}
 
-	/*entry 9 css small - renewable materials*/
+	/*entry 9 css small - servers page*/
 	.place > .entry9 {
 		padding: .5em;
 	}
@@ -475,6 +475,7 @@
 		text-decoration: underline;
 	}
 
+	/*entry10 css small - servers page*/
 	.place > .entry10 {
 		padding: .5em;
 	}
@@ -484,7 +485,6 @@
 		color: white;
 	}
 	.entry10 .crea p{
-		text-align: center;
 		color: #264253;
 		font-family: 'Avro', serif;
 		font-weight: bold;
@@ -499,7 +499,16 @@
 		color: white;
 		text-decoration: underline;
 	}
+	.entry10 ul{
+		color: #264253;
+		font-family: 'Avro', serif;
+	}
+	#image1 {
+        width: 100%;
+        height:auto;
+    }
 
+	/*entry11 css small - servers page*/
 	.place > .entry11 {
 		padding: .5em;
 	}
@@ -509,7 +518,6 @@
 		color: white;
 	}
 	.entry11 .surv p{
-		text-align: center;
 		color: #264253;
 		font-family: 'Avro', serif;
 		font-weight: bold;
@@ -524,6 +532,14 @@
 		color: white;
 		text-decoration: underline;
 	}
+	.entry11 ul{
+		color: #264253;
+		font-family: 'Avro', serif;
+	}
+	#image2 {
+        width: 100%;
+        height:auto;
+    }
 	
 
 	/*footer css small*/

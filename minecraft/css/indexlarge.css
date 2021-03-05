@@ -175,26 +175,45 @@
 		font-size: 1rem;
 	}
 
+	/*entry 9 css large - servers page*/
+	.entry9 .info h2{
+		font-size: 2rem;
+	}
+	.entry9 .info p{
+		font-size: 1.5rem;
+	}
+	.entry9 .index ul{
+		justify-content: center;
+		display: flex;
+	}
+	.entry9 .index ul li {
+		font-size: 1rem;
+	}
 
-
-
-
+	/*entry10 css large - servers page*/
 	.entry10 h2{
 		font-size: 2rem;
 	}
 	.entry10 div.crea p{
 		font-size: 1.5rem;
 	}
+	.entry10 div.crea ul{
+		font-size: 1.25rem;
+	}
 	#image1 {
         width: 100%;
         height:auto;
     }
-    
+
+    /*entry11 css large - servers page*/
     .entry11 h2{
 		font-size: 2rem;
 	}
 	.entry11 div.surv p{
 		font-size: 1.5rem;
+	}
+	.entry11 div.surv ul{
+		font-size: 1.25rem;
 	}
 	#image2 {
         width:100%;
