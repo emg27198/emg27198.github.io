@@ -179,32 +179,26 @@
 
 
 
-    .entry10 div.history p{
-        list-style-type: none;
-        font-family: 'Open Sans', sans-serif;
-        font-size: 1.5em;
-        color: #FCEC52;
-    }
+	.entry10 h2{
+		font-size: 2rem;
+	}
+	.entry10 div.crea p{
+		font-size: 1.5rem;
+	}
 	#image1 {
-        width: 40%;
+        width: 100%;
         height:auto;
-        margin: 1%;
-        border-radius: 3px;
-        float: left;
     }
     
-    .entry11 div.history p{
-        list-style-type: none;
-        font-family: 'Open Sans', sans-serif;
-        font-size: 1.5em;
-        color: #FCEC52;
-    }
+    .entry11 h2{
+		font-size: 2rem;
+	}
+	.entry11 div.surv p{
+		font-size: 1.5rem;
+	}
 	#image2 {
-        width:40%;
+        width:100%;
         height:auto;
-        margin: 1%;
-        border-radius: 3px;
-        float: right;
     }
 
 	/*footer css large*/

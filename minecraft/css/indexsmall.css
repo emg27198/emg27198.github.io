@@ -465,11 +465,61 @@
 		font-weight: bold;
 		list-style-type: none;
 	}
-	.entry9 .index ul li a:link, .entry6 .index ul li a:visited{
+	.entry9 .index ul li a:link, .entry9 .index ul li a:visited{
 		color: #E9C46A;
 		text-decoration: none;
 	}
 	.entry9 .index ul li a:hover{
+		background-color: transparent;
+		color: white;
+		text-decoration: underline;
+	}
+
+	.place > .entry10 {
+		padding: .5em;
+	}
+	.entry10 h2{
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.entry10 .crea p{
+		text-align: center;
+		color: #264253;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+	}
+	.entry10 a:link, .entry10  a:visited{
+		font-family: 'Chakra Petch', sans-serif;
+		color: #E9C46A;
+		text-decoration: none;
+	}
+	.entry10 a:hover{
+		background-color: transparent;
+		color: white;
+		text-decoration: underline;
+	}
+
+	.place > .entry11 {
+		padding: .5em;
+	}
+	.entry11 h2{
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.entry11 .surv p{
+		text-align: center;
+		color: #264253;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+	}
+	.entry11 a:link, .entry11  a:visited{
+		font-family: 'Chakra Petch', sans-serif;
+		color: #E9C46A;
+		text-decoration: none;
+	}
+	.entry11 a:hover{
 		background-color: transparent;
 		color: white;
 		text-decoration: underline;
