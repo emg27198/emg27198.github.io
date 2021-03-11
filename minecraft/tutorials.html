@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <title>Learning Minecraft Tutorials</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Learning Minecraft Tutorials Page">
+    <link rel="Shortcut icon" href="/minecraft/imgs/logos/favicon.ico">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/indexsmall.css">
+    <link rel="stylesheet" href="css/indexlarge.css">
+</head>
+
+<body>
+    <header>
+        <div class="top1">
+        <picture class="logo1">
+            <img src="/minecraft/imgs/logos/logo_notext.svg" alt="Scoots Logo">
+        </picture>
+        <section class="headings">
+            <h1>learningminecraft.com</h1>
+        </section>
+        <picture class="logo1">
+            <img src="/minecraft/imgs/logos/logo_notext.svg" alt="Scoots Logo">
+        </picture>
+        </div>
+
+        <div class="top2">
+            <a href="/minecraft/home.html">
+            <picture class="logo2">
+                <img src="/minecraft/imgs/logos/logo_text.svg" alt="Scoots Logo">
+            </picture>
+            </a>
+        </div>
+    </header>
+
+    <nav class="clearfix">
+        <button onclick="toggleMenu()">Options</button>
+        <ul id="primaryNav" class="hide">
+            <li><a href="home.html">Home</a></li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Materials</a>
+                <div class="dropdown-content">
+                    <a href="renew.html">Renewable</a>
+                    <a href="nonrenew.html">Non-renewable</a>
+                </div>
+            </li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Mobs</a>
+                <div class="dropdown-content">
+                    <a href="#">Good</a>
+                    <a href="#">Neutral</a>
+                    <a href="#">Hostile</a>
+                </div>
+            </li>
+            <li ><a href="/minecraft/servers.html">Servers</a></li>
+            <li class="active"><a href="/minecraft/tutorials.html">Tutorials</a></li>
+        </ul>
+    </nav>
+    <main>
+        <div class="place">
+
+            <div class="herodiv">
+                <picture>
+                    <source srcset="/minecraft/imgs/hero_images/hero1small.png" media="(min-width:35rem) and (max-width:40em )">
+                    <source srcset="/minecraft/imgs/hero_images/hero1large.png" media="(min-width:64em)">
+                    <img id="hero" src="/minecraft/imgs/hero_images/hero1.png" alt="hero_image">
+                </picture>
+                <section class="title">
+                    <h3>Minecraft Tutorials</h3>
+                    <p>Minecraft is a very popular videogame and there are a bunch of different video tutorials on youtube 
+                        that help you build houses, use materials in the most efficient ways, and 
+                        just plain survive the game itself. Check them out for yourself, we even have a daily featured video that 
+                        you can view at the beginning of the page.
+                    </p>
+                </section>
+            </div>
+
+            <div class="entry12">
+                <div id="top" class="info">
+                    <h2>Daily Minecraft Tutorial Video</h2>
+                    <p>Everyday this video will change to show a new video. To skip this video and see the other videos that
+                        this page displays, click this link and will take you directly to the tutorial videos section:
+                        <a href="#tutorials">Tutorial Videos</a>
+                    </p>
+                </div>
+                    <div class="manage">
+                    <iframe id="rotate" src="#" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+
+            <div class="entry13">
+                <div class="sectioning">
+                    <div id="tutorials">
+                        <h2 class="section-title">Minecraft Video Tutorials</h2>
+                        <div class="videocard"></div>
+                        <a href="#top">Return to Top of Page</a>
+                    </div>
+                </div>
+            </div>   
+    </main>
+    <footer>
+        <span id="year"></span> | <a href="/other/current_links_and_sources.zip" target="_blank">Sources
+            and References</a> | <a href="https://github.com/emg27198/emg27198.github.io.git">Capstone Project Github</a> |
+            Elizabeth Gardiner | <a href="https://account.mojang.com/documents/commercial_guidelines">Mojang Studios Account Terms and Agreement</a><br> 
+            This website is not an official minecraft product or service, it is also not approved by or associated with Mojang or Mojang Studios.
+        <div><span id="modified"></span></div>
+    </footer>
+    <script src="/minecraft/js/video.js"></script>
+    <script src="/minecraft/js/videolist.js"></script>
+    <script src="/minecraft/js/script.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+    <script src="/minecraft/js/webfont.js"></script>
+</body>
+
+</html>

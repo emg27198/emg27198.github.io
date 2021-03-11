@@ -119,7 +119,7 @@
 	.entry5 .info p{
 		font-size: 1.5rem;
 	}
-	iframe{
+	.entry5 .manage iframe{
 		height: 640px;
 	}
 
@@ -219,6 +219,37 @@
         width:100%;
         height:auto;
     }
+	
+	/*entry12 css large - tutorials page*/
+	.entry12 .info h2{
+		font-size: 2rem;
+	}
+	.entry12 .info p{
+		font-size: 1.5rem;
+	}
+	.entry12 .manage iframe{
+		height: 640px;
+	}
+
+	/*entry13 css large - tutorials page*/
+	.videocard{
+		display: grid;
+		grid-template-columns: auto auto auto;
+		grid-gap: 5px;	
+	}
+	.videocard section iframe{
+		width: 100%;
+		height: 315px;
+	}
+	.videocard section h2{
+		font-size: 1.5rem;
+	}
+	.videocard section h3{
+		font-size: 1rem;
+	}
+	.videocard section p{
+		font-size: 1rem;
+	}
 
 	/*footer css large*/
 	footer {

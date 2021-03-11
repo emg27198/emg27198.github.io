@@ -267,14 +267,14 @@
 		color: white;
 		text-decoration: underline;
 	}
-	.manage {
+	.entry5 .manage {
 		text-align: center;
 		width: 100%;
 		height: auto;
 		background-color:rgba(244, 162, 97);
 		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 	}
-	iframe{
+	.entry5 .manage iframe{
 		border: 0px;
 		padding: 10px;
 		width: 100%; 
@@ -378,7 +378,7 @@
 		color: #264253;
 	}
 
-	/*entry 8 css small - renewable materials*/
+	/*entry 8 css small - non-renewable materials*/
 	.place > .entry8 {
 		padding: 1em;
 	}
@@ -422,6 +422,14 @@
 		width: 75%;
 		height: auto;
 	}
+	.carding img[data-src] {
+		filter: blur(0.2em);
+	  }
+	  
+	.carding img {
+		filter: blur(0em);
+		transition: filter 2s;
+	  }
 	.carding section h2, .carding1 section h2, .carding2 section h2, .carding3 section h2, .carding4 section h2, .carding5 section h2{
 		margin: 0;
 		margin-bottom: 10px;
@@ -540,6 +548,109 @@
         width: 100%;
         height:auto;
     }
+
+	/*entry12 css small - tutorials page*/
+	.place > .entry12 {
+		padding: .5em;
+	}
+	.entry12 .info h2{
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.entry12 .info p{
+		text-align: center;
+		color: #264253;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+	}
+	.entry12 .info p a:link, .entry5 .info p a:visited{
+		color: #E9C46A;
+		text-decoration: none;
+	}
+	.entry12 .info p a:hover{
+		color: white;
+		text-decoration: underline;
+	}
+	.entry12 .manage {
+		text-align: center;
+		width: 100%;
+		height: auto;
+		background-color:rgba(244, 162, 97);
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	}
+	.entry12 .manage iframe{
+		border: 0px;
+		padding: 10px;
+		width: 100%; 
+		height: 320px;
+	}
+
+	/*entry13 css small - tutorials page*/
+	.place > .entry13 {
+		padding: 1em;
+	}
+	.entry13 .sectioning{
+		margin-top: 10px;
+		padding: .5rem;
+		border-radius: 10px;
+		background-color: #264253;
+	}
+	.entry13 .sectioning div a:link, .entry8 .sectioning div a:visited{
+		margin: 5px;
+		font-family: 'Chakra Petch', sans-serif;
+		color: #E9C46A;
+		text-decoration: none;
+	}
+	.entry13 .sectioning div a:hover{
+		color: white;
+		text-decoration: underline;
+	}
+	.entry13 .section-title{
+		text-align: center;
+		color: white;
+		font-family: 'Chakra Petch', sans-serif;
+	}
+	.videocard{
+		justify-content: center;
+		display: grid;
+		grid-gap: 10px;
+	}
+	.videocard section{
+		text-align: center;
+		width: 100%;
+		height: auto;
+		background-color:rgba(244, 162, 97);
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	}
+	.videocard section iframe{
+		border: 0;
+		margin: 0;
+		padding: 10px;
+		width: 75%;
+		height: auto;
+	}
+	.videocard section h2{
+		margin: 0;
+		margin-bottom: 10px;
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.videocard section h3{
+		text-decoration: underline;
+		margin: 0;
+		margin-top: 20px;
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: #2A9D8F;
+	}
+	.videocard section p{
+		margin: 5px;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+		color: #264253;
+	}
 	
 
 	/*footer css small*/

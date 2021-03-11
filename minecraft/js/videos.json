@@ -1,0 +1,46 @@
+{
+    "videos": [
+        {
+                "title": "The Best Starter/Survival House For Beginners",
+                "creator": "Smithers Boss",
+                "summary": "Today we build a great house for a beginner in Minecraft with a simple design and simple interior too!",
+                "embed": "https://www.youtube.com/embed/rdqP2IPb_lw"
+                },
+            {
+                "title": "How to Claim Land with the Grief Prevention Minecraft Server Plugin",
+                "creator": "Big Scary Games",
+                "summary": "Short, complete tutorial for creating and managing land claims on Minecraft servers running the Grief Prevention plugin.",
+                "embed": "https://www.youtube.com/embed/VDsjXB-BaE0"
+                },
+            {
+                "title": "Minecraft Tutorial: How to Use Redstone",
+                "creator": "HowcastGaming",
+                "summary": "Learn how to use Redstone in Minecraft with this Minecraft tutorial.",
+                "embed": "https://www.youtube.com/embed/T3TvCjNH6fo"
+                },
+            {
+                "title": "Minecraft Tutorials - E01 How to Survive Your First Night (UPDATED!)",
+                "creator": "paulsoaresjr",
+                "summary": "This tutorial will show you how to survive your first night in Minecraft, where bad things come out from the dark and try to eat you. You'll learn what to do in the first few minutes of the game (while the sun is shining) in order to survive the coming night!",
+                "embed": "https://www.youtube.com/embed/B36Ehzf2cxE"
+                },
+            {
+                "title": "Minecraft: How To Build a Survival Base Tutorial (Building Tutorial) (#14)",
+                "creator": "Iriegenie",
+                "summary": "I'm gonna show you how to build a Survival Base in Minecraft, and also how to decorate the interior. This base has a main house, storage room, bedroom, brewing area, enchanting area, smelting area, animal pen, horse stable, and crop farm.",
+                "embed": "https://www.youtube.com/embed/s6Z_z4rx3zg"
+                },
+            {
+                "title": "How to make an End Portal in Minecraft (PC/XBOX/PS4)",
+                "creator": "EKGaming",
+                "summary": "Today I bring you a guide on how to make an End Portal in Minecraft on PC/XBOX/PS4. If this helped you out let me know in the comment section. Also please subscribe to the channel for more content like this in the future :P",
+                "embed": "https://www.youtube.com/embed/UwWoIwo1p0U"
+                },
+            {
+                "title": "How To Kill The Ender Dragon: The Notable Way",
+                "creator": "Luke TheNotable",
+                "summary": "In this video I will show you how to kill the Ender Dragon in Minecraft. With the right tools it can be easy!",
+                "embed": "https://www.youtube.com/embed/DRCzZI1O62o"
+                }
+    ]   
+  }

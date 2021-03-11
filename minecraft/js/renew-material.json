@@ -822,7 +822,7 @@
     "item": "Tag",
     "armor": "NONE",
     "tools": "Tag",
-    "craft": "CRAFTABLE",
+    "craft": "NONCRAFTABLE",
     "photo": "/minecraft/imgs/tools/tag.png"
     },
     {
@@ -843,7 +843,7 @@
     "item": "Turtle Shell",
     "armor": "NONE",
     "tools": "Turtle Shell",
-    "craft": "CRAFTABLE",
+    "craft": "NONCRAFTABLE",
     "photo": "/minecraft/imgs/tools/turtle_shell.png"
     
     },
