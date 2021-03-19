@@ -296,6 +296,9 @@
 		font-family: 'Avro', serif;
 		font-weight: bold;
 	}
+	.entry6 .index ul{
+		padding-left: 0;
+	}
 	.entry6 .index ul li {
 		font-size: 1rem;
 		font-family: "Chakra Petch", sans-serif;
@@ -422,9 +425,6 @@
 		width: 75%;
 		height: auto;
 	}
-	.carding img[data-src] {
-		filter: blur(0.2em);
-	  }
 	  
 	.carding img {
 		filter: blur(0em);
@@ -466,6 +466,9 @@
 		color: #264253;
 		font-family: 'Avro', serif;
 		font-weight: bold;
+	}
+	.entry9 .index ul{
+		padding-left: 0;
 	}
 	.entry9 .index ul li {
 		font-size: 1rem;
