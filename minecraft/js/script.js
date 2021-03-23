@@ -4,7 +4,7 @@ function toggleMenu() {
 }
 
 function dropdown1() {
-    document.getElementById("mobNav").classList.toggle("hide");
+    document.getElementById("mobNav").classList.toggle("hide1");
 }
 
 //modification date
