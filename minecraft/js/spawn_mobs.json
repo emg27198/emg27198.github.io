@@ -1,5 +1,5 @@
 {
-    "good": [
+"good": [
         {
         "mob": "Bats",
         "location": "Minecraft Caves",
@@ -225,128 +225,128 @@
     },
     {
     "mob": "Creeper",
-    "location": "Minecraft Jungle",
+    "location": "Everywhere",
     "items": "NOTHING",
-    "photo": "/minecraft/imgs/good/cats.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Ender Dragon",
-    "location": "Everywhere",
+    "location": "The End",
     "items": "Raw Chicken",
-    "photo": "/minecraft/imgs/good/chickens.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Ghast",
-    "location": "Sources of water",
+    "location": "The Nether",
     "items": "Raw Cod",
-    "photo": "/minecraft/imgs/good/cod.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Guardians",
-    "location": "Everywhere",
+    "location": "Sources of water",
     "items": "Raw Beef",
-    "photo": "/minecraft/imgs/good/cows.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Hoglins",
-    "location": "Minecraft Plains",
+    "location": "The Nether",
     "items": "Leather",
-    "photo": "/minecraft/imgs/good/donkeys.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Magma Cube",
-    "location": "Minecraft Spruce Forest",
+    "location": "The Nether",
     "items": "Emeralds, Snowberries",
-    "photo": "/minecraft/imgs/good/foxes.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Phantom",
-    "location": "Minecraft Plains",
+    "location": "Minecraft Overworld",
     "items": "Leather",
-    "photo": "/minecraft/imgs/good/horses.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Pillagers",
-    "location": "Minecraft Jungle",
+    "location": "Minecraft Overworld",
     "items": "NOTHING",
-    "photo": "/minecraft/imgs/good/parrots.jpg",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Shulker",
-    "location": "Everywhere",
+    "location": "The End",
     "items": "Raw Porkchop",
-    "photo": "/minecraft/imgs/good/pigs.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Silverfish",
-    "location": "Everywhere",
+    "location": "Minecraft Caves",
     "items": "Raw Rabbit",
-    "photo": "/minecraft/imgs/good/rabbits.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Skeleton",
-    "location": "Sources of water",
+    "location": "Everywhere",
     "items": "Raw Salmon",
-    "photo": "/minecraft/imgs/good/salmon.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Slimes",
-    "location": "Everywhere",
+    "location": "Minecraft Marshes",
     "items": "Raw Mutton",
-    "photo": "/minecraft/imgs/good/sheep.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Stray",
     "location": "Sources of water",
     "items": "Ink Sac",
-    "photo": "/minecraft/imgs/good/squids.jpg",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "The Wither",
     "location": "The Nether",
     "items": "NOTHING",
-    "photo": "/minecraft/imgs/good/striders.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Vexes",
     "location": "Minecraft Oceans",
     "items": "Turtle Shell",
-    "photo": "/minecraft/imgs/good/turtles.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Witches",
     "location": "Minecraft Villages",
     "items": "NOTHING",
-    "photo": "/minecraft/imgs/good/villagers.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Wither Skeleton",
     "location": "Minecraft Oceans",
     "items": "Turtle Shell",
-    "photo": "/minecraft/imgs/good/turtles.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
     "mob": "Zombies",
     "location": "Minecraft Oceans",
     "items": "Turtle Shell",
-    "photo": "/minecraft/imgs/good/turtles.png",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     }
     ]
