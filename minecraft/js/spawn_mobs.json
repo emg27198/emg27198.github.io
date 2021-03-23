@@ -125,7 +125,7 @@
     {
     "mob": "Bees",
     "location": "Everywhere",
-    "items": "Honey",
+    "items": "Honeycomb",
     "photo": "/minecraft/imgs/neutral/bees.png",
     "difficult": "Easy"
     },
@@ -133,50 +133,50 @@
     "mob": "Cave Spider",
     "location": "Minecraft Jungle",
     "items": "NOTHING",
-    "photo": "/minecraft/imgs/neutral/bees.png",
+    "photo": "/minecraft/imgs/neutral/cave_spider.png",
     "difficult": "Medium"
     },
     {
     "mob": "Dolphins",
-    "location": "Everywhere",
-    "items": "Raw Chicken",
-    "photo": "/minecraft/imgs/neutral/bees.png",
-    "difficult": "Easy"
+    "location": "Sources of water",
+    "items": "NOTHING",
+    "photo": "/minecraft/imgs/neutral/dolphins.png",
+    "difficult": "Medium"
     },
     {
     "mob": "Endermen",
-    "location": "Sources of water",
-    "items": "Raw Cod",
-    "photo": "/minecraft/imgs/neutral/bees.png",
-    "difficult": "Easy"
+    "location": "Everywhere",
+    "items": "Ender Pearls",
+    "photo": "/minecraft/imgs/neutral/enderman.jpg",
+    "difficult": "Hard"
     },
     {
     "mob": "Iron Golem",
-    "location": "Everywhere",
-    "items": "Raw Beef",
-    "photo": "/minecraft/imgs/neutral/bees.png",
-    "difficult": "Easy"
+    "location": "Villages",
+    "items": "NOTHING",
+    "photo": "/minecraft/imgs/neutral/iron_golem.png",
+    "difficult": "Expert"
     },
     {
     "mob": "Llamas",
-    "location": "Minecraft Plains",
+    "location": "Minecraft Mountains and Plains",
     "items": "Leather",
-    "photo": "/minecraft/imgs/neutral/bees.png",
-    "difficult": "Easy"
+    "photo": "/minecraft/imgs/neutral/llamas.jpg",
+    "difficult": "Medium"
     },
     {
     "mob": "Pandas",
-    "location": "Minecraft Spruce Forest",
-    "items": "Emeralds, Snowberries",
-    "photo": "/minecraft/imgs/neutral/bees.png",
-    "difficult": "Easy"
+    "location": "Minecraft Bamboo Forests",
+    "items": "Bamboo",
+    "photo": "/minecraft/imgs/neutral/pandas.jpg",
+    "difficult": "Medium"
     },
     {
     "mob": "Piglins",
-    "location": "Minecraft Plains",
-    "items": "Leather",
-    "photo": "/minecraft/imgs/neutral/bees.png",
-    "difficult": "Easy"
+    "location": "The Nether",
+    "items": "Random Items",
+    "photo": "/minecraft/imgs/neutral/piglins.png",
+    "difficult": "Medium"
     },
     {
     "mob": "Polar Bears",
