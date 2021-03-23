@@ -217,123 +217,137 @@
 
 "hostile": [
     {
-    "mob": "Bats",
-    "location": "Minecraft Caves",
-    "items": "NOTHING",
-    "photo": "/minecraft/imgs/good/bats.png",
+    "mob": "Blaze",
+    "location": "The Nether",
+    "items": "Blaze Rod",
+    "photo": "/minecraft/imgs/hostile/blaze.png",
     "difficult": "Easy"
     },
     {
-    "mob": "Cats",
+    "mob": "Creeper",
     "location": "Minecraft Jungle",
     "items": "NOTHING",
     "photo": "/minecraft/imgs/good/cats.png",
     "difficult": "Easy"
     },
     {
-    "mob": "Chickens",
+    "mob": "Ender Dragon",
     "location": "Everywhere",
     "items": "Raw Chicken",
     "photo": "/minecraft/imgs/good/chickens.png",
     "difficult": "Easy"
     },
     {
-    "mob": "Cod",
+    "mob": "Ghast",
     "location": "Sources of water",
     "items": "Raw Cod",
     "photo": "/minecraft/imgs/good/cod.png",
     "difficult": "Easy"
     },
     {
-    "mob": "Cows",
+    "mob": "Guardians",
     "location": "Everywhere",
     "items": "Raw Beef",
     "photo": "/minecraft/imgs/good/cows.png",
     "difficult": "Easy"
     },
     {
-    "mob": "Donkeys",
+    "mob": "Hoglins",
     "location": "Minecraft Plains",
     "items": "Leather",
     "photo": "/minecraft/imgs/good/donkeys.png",
     "difficult": "Easy"
     },
     {
-    "mob": "Foxes",
+    "mob": "Magma Cube",
     "location": "Minecraft Spruce Forest",
     "items": "Emeralds, Snowberries",
     "photo": "/minecraft/imgs/good/foxes.png",
     "difficult": "Easy"
     },
     {
-    "mob": "Horses",
+    "mob": "Phantom",
     "location": "Minecraft Plains",
     "items": "Leather",
     "photo": "/minecraft/imgs/good/horses.png",
     "difficult": "Easy"
     },
     {
-    "mob": "Parrots",
+    "mob": "Pillagers",
     "location": "Minecraft Jungle",
     "items": "NOTHING",
     "photo": "/minecraft/imgs/good/parrots.jpg",
     "difficult": "Easy"
     },
     {
-    "mob": "Pigs",
+    "mob": "Shulker",
     "location": "Everywhere",
     "items": "Raw Porkchop",
     "photo": "/minecraft/imgs/good/pigs.png",
     "difficult": "Easy"
     },
     {
-    "mob": "Rabbits",
+    "mob": "Silverfish",
     "location": "Everywhere",
     "items": "Raw Rabbit",
     "photo": "/minecraft/imgs/good/rabbits.png",
     "difficult": "Easy"
     },
     {
-    "mob": "Salmon",
+    "mob": "Skeleton",
     "location": "Sources of water",
     "items": "Raw Salmon",
     "photo": "/minecraft/imgs/good/salmon.png",
     "difficult": "Easy"
     },
     {
-    "mob": "Sheep",
+    "mob": "Slimes",
     "location": "Everywhere",
     "items": "Raw Mutton",
     "photo": "/minecraft/imgs/good/sheep.png",
     "difficult": "Easy"
     },
     {
-    "mob": "Squids",
+    "mob": "Stray",
     "location": "Sources of water",
     "items": "Ink Sac",
     "photo": "/minecraft/imgs/good/squids.jpg",
     "difficult": "Easy"
     },
     {
-    "mob": "Striders",
+    "mob": "The Wither",
     "location": "The Nether",
     "items": "NOTHING",
     "photo": "/minecraft/imgs/good/striders.png",
     "difficult": "Easy"
     },
     {
-    "mob": "Turtles",
+    "mob": "Vexes",
     "location": "Minecraft Oceans",
     "items": "Turtle Shell",
     "photo": "/minecraft/imgs/good/turtles.png",
     "difficult": "Easy"
     },
     {
-    "mob": "Villagers",
+    "mob": "Witches",
     "location": "Minecraft Villages",
     "items": "NOTHING",
     "photo": "/minecraft/imgs/good/villagers.png",
     "difficult": "Easy"
+    },
+    {
+    "mob": "Wither Skeleton",
+    "location": "Minecraft Oceans",
+    "items": "Turtle Shell",
+    "photo": "/minecraft/imgs/good/turtles.png",
+    "difficult": "Easy"
+    },
+    {
+    "mob": "Zombies",
+    "location": "Minecraft Oceans",
+    "items": "Turtle Shell",
+    "photo": "/minecraft/imgs/good/turtles.png",
+    "difficult": "Easy"
     }
-]
+    ]
 }
