@@ -654,6 +654,152 @@
 		font-weight: bold;
 		color: #264253;
 	}
+
+	/*entry 14 css small - Good Spawning Mobs Page*/
+	.place > .entry14 {
+		padding: 1em;
+	}
+	.entry14 .sectioning{
+		margin-top: 10px;
+		padding: .5rem;
+		border-radius: 10px;
+		background-color: #264253;
+	}
+	.entry14 .section-title{
+		text-align: center;
+		color: white;
+		font-family: 'Chakra Petch', sans-serif;
+	}
+	.entry14 .cards{
+		justify-content: center;
+		display: grid;
+		grid-gap: 10px;
+		
+	}
+	.entry14 .cards section{
+		text-align: center;
+		width: 100%;
+		height: auto;
+		background-color:rgba(244, 162, 97);
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	}
+	.entry14 .cards section img{
+		margin: 0;
+		padding: 10px;
+		width: 75%;
+		height: auto;
+	}
+	.entry14 .cards section h2{
+		margin: 0;
+		margin-bottom: 10px;
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.entry14 .cards section p{
+		margin: 5px;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+		color: #264253;
+	}
+
+	/*entry 15 css small - Neutral Spawning Mobs Page*/
+	.place > .entry15 {
+		padding: 1em;
+	}
+	.entry15 .sectioning{
+		margin-top: 10px;
+		padding: .5rem;
+		border-radius: 10px;
+		background-color: #264253;
+	}
+	.entry15 .section-title{
+		text-align: center;
+		color: white;
+		font-family: 'Chakra Petch', sans-serif;
+	}
+	.entry15 .cards{
+		justify-content: center;
+		display: grid;
+		grid-gap: 10px;
+		
+	}
+	.entry15 .cards section{
+		text-align: center;
+		width: 100%;
+		height: auto;
+		background-color:rgba(244, 162, 97);
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	}
+	.entry15 .cards section img{
+		margin: 0;
+		padding: 10px;
+		width: 75%;
+		height: auto;
+	}
+	.entry15 .cards section h2{
+		margin: 0;
+		margin-bottom: 10px;
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.entry15 .cards section p{
+		margin: 5px;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+		color: #264253;
+	}
+
+	/*entry 16 css small - Hostile Spawning Mobs Page*/
+	.place > .entry16 {
+		padding: 1em;
+	}
+	.entry16 .sectioning{
+		margin-top: 10px;
+		padding: .5rem;
+		border-radius: 10px;
+		background-color: #264253;
+	}
+	.entry16 .section-title{
+		text-align: center;
+		color: white;
+		font-family: 'Chakra Petch', sans-serif;
+	}
+	.entry16 .cards{
+		justify-content: center;
+		display: grid;
+		grid-gap: 10px;
+		
+	}
+	.entry16 .cards section{
+		text-align: center;
+		width: 100%;
+		height: auto;
+		background-color:rgba(244, 162, 97);
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	}
+	.entry16 .cards section img{
+		margin: 0;
+		padding: 10px;
+		width: 75%;
+		height: auto;
+	}
+	.entry16 .cards section h2{
+		margin: 0;
+		margin-bottom: 10px;
+		text-align: center;
+		font-family: 'Chakra Petch', sans-serif;
+		color: white;
+	}
+	.entry16 .cards section p{
+		margin: 5px;
+		font-family: 'Avro', serif;
+		font-weight: bold;
+		color: #264253;
+	}
+
+	
 	
 
 	/*footer css small*/

@@ -1,7 +1,7 @@
 //navigation menu
 function toggleMenu() {
     document.getElementById("primaryNav").classList.toggle("hide");
-}
+}  
 
 //modification date
 let d = new Date();

@@ -1,0 +1,278 @@
+@media only screen and (min-width: 35rem) {
+
+/*navigation medium*/
+html {
+    -webkit-text-size-adjust: 100%; 
+    -ms-text-size-adjust: 100%;
+}
+* { 
+    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box; 
+    box-sizing: border-box; 
+}
+nav button{
+    font-size: 2rem;
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+nav ul li{
+    font-size: 1.75rem;
+}
+    
+/* dropdown menus medium*/	
+.dropdown-content {
+    font-size: 1.5rem;
+}
+
+/*hero image and explanation medium*/
+.title{
+    color: #ADE250;
+    position: absolute;
+    top: 5em;
+    left: .15em;
+    background-color:rgba(244, 162, 97, 0.5);
+    border-radius: 3px;
+}
+.title h3{
+    font-size: 3rem;
+}
+.title p{
+    font-size: 1.25rem;
+}
+
+/*entry 2 css medium - home page*/
+.entry2 .info h2{
+    font-size: 1rem;
+}
+.entry2 .info p{
+    font-size: 1.25rem;
+}
+.container h3{
+    font-size: 1.5rem;
+}
+.container p{
+    font-size: 1rem;
+}
+
+/*entry 3 css medium - home page*/
+.entry3 .info h2{
+    font-size: 1.5rem;
+}
+.entry3 .info p{
+    font-size: 1.25rem;
+}
+.grid2{
+    grid-template-columns: auto auto;
+}
+.holder h3{
+    font-size: 1.5rem;
+}
+.holder p{
+    font-size: 1rem;
+}
+
+/*entry 4 css medium - home page*/
+.entry4 .info h2{
+    font-size: 1.5rem;
+}
+.entry4 .info p{
+    font-size: 1.25rem;
+}
+.grid3{
+    grid-template-columns: auto auto;
+}
+.placement h3{
+    font-size: 1.5rem;
+}
+.placement p{
+    font-size: 1rem;
+}
+
+/*entry 5 css medium - home page*/
+.entry5 .info h2{
+    font-size: 1.5rem;
+}
+.entry5 .info p{
+    font-size: 1.25rem;
+}
+
+/*entry 6 css medium - renewable materials*/
+.entry6 .info h2{
+    font-size: 1.5rem;
+}
+.entry6 .info p{
+    font-size: 1.25rem;
+}
+.entry6 .index ul{
+    justify-content: center;
+    display: flex;
+}
+.entry6 .index ul li {
+    font-size: 0.5rem;
+}
+
+/*entry 7 css medium - renewable materials*/
+.cards, .cards1, .cards2, .cards3, .cards4, .cards5, .cards6, .cards7, .cards8{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 5px;
+}
+.cards section img, .cards1 section img, .cards2 section img, .cards3 section img, .cards4 section img, .cards5 section img, .cards6 section img, .cards7 section img, .cards8 section img{
+    width: 50%;
+}
+.cards section h2, .cards1 section h2, .cards2 section h2, .cards3 section h2, .cards4 section h2, .cards5 section h2, .cards6 section h2, .cards7 section h2, .cards8 section h2{
+    font-size: 1.25rem;
+}
+.cards section h3, .cards1 section h3, .cards2 section h3, .cards3 section h3, .cards4 section h3, .cards5 section h3, .cards6 section h3, .cards7 section h3, .cards8 section h3{
+    font-size: 0.75rem;
+}
+.cards section p, .cards1 section p, .cards2 section p, .cards3 section p, .cards4 section p, .cards5 section p, .cards6 section p, .cards7 section p, .cards8 section p{
+    font-size: 0.75rem;
+}
+
+/*entry 8 css medium - nonrenewable materials*/
+.carding, .carding1, .carding2, .carding3, .carding4, .carding5{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 5px;	
+}
+.carding section img, .carding1 section img, .carding2 section img, .carding3 section img, .carding4 section img, .carding5 section img{
+    width: 50%;
+}
+.carding section h2, .carding1 section h2, .carding2 section h2, .carding3 section h2, .carding4 section h2, .carding5 section h2{
+    font-size: 1.25rem;
+}
+.carding section h3, .carding1 section h3, .carding2 section h3, .carding3 section h3, .carding4 section h3, .carding5 section h3{
+    font-size: 0.75rem;
+}
+.carding section p, .carding1 section p, .carding2 section p, .carding3 section p, .carding4 section p, .carding5 section p{
+    font-size: 0.75rem;
+}
+
+/*entry 9 css medium - servers page*/
+.entry9 .info h2{
+    font-size: 1.5rem;
+}
+.entry9 .info p{
+    font-size: 1.25rem;
+}
+.entry9 .index ul{
+    justify-content: center;
+    display: flex;
+}
+.entry9 .index ul li {
+    font-size: 0.75rem;
+}
+
+/*entry10 css medium - servers page*/
+.entry10 h2{
+    font-size: 1.75rem;
+}
+.entry10 div.crea p{
+    font-size: 1.25rem;
+}
+.entry10 div.crea ul{
+    font-size: 1rem;
+}
+#image1 {
+    width: 100%;
+    height:auto;
+}
+
+/*entry11 css medium - servers page*/
+.entry11 h2{
+    font-size: 1.75rem;
+}
+.entry11 div.surv p{
+    font-size: 1.25rem;
+}
+.entry11 div.surv ul{
+    font-size: 1rem;
+}
+#image2 {
+    width:100%;
+    height:auto;
+}
+
+/*entry12 css medium - tutorials page*/
+.entry12 .info h2{
+    font-size: 1.5rem;
+}
+.entry12 .info p{
+    font-size: 1.25rem;
+}
+.entry12 .manage iframe{
+    height: 640px;
+}
+
+/*entry13 css medium - tutorials page*/
+.videocard{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 5px;	
+}
+.videocard section iframe{
+    width: 100%;
+    height: 315px;
+}
+.videocard section h2{
+    font-size: 1.25rem;
+}
+.videocard section h3{
+    font-size: 0.75rem;
+}
+.videocard section p{
+    font-size: 0.75rem;
+}
+
+/*entry 14 css medium - Good Spawning Mobs Page*/
+.entry14 .cards{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 5px;
+}
+.entry14 .cards section img{
+    width: 78%;
+}
+.entry14 .cards section h2{
+    font-size: 1.25rem;
+}
+.entry14 .cards section p{
+    font-size: 0.75rem;
+}
+
+/*entry 15 css medium - Neutral Spawning Mobs Page*/
+.entry15 .cards{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 5px;
+}
+.entry15 .cards section img{
+    width: 78%;
+}
+.entry15 .cards section h2{
+    font-size: 1.25rem;
+}
+.entry15 .cards section p{
+    font-size: 0.75rem;
+}
+
+/*entry 16 css medium - Hostile Spawning Mobs Page*/
+.entry16 .cards{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 5px;
+}
+.entry16 .cards section img{
+    width: 78%;
+}
+.entry16 .cards section h2{
+    font-size: 1.25rem;
+}
+.entry16 .cards section p{
+    font-size: 0.75rem;
+}
+}

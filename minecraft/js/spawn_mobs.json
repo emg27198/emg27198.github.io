@@ -221,132 +221,132 @@
     "location": "The Nether",
     "items": "Blaze Rod",
     "photo": "/minecraft/imgs/hostile/blaze.png",
-    "difficult": "Easy"
+    "difficult": "Hard"
     },
     {
     "mob": "Creeper",
-    "location": "Everywhere",
-    "items": "NOTHING",
+    "location": "Minecraft Overworld",
+    "items": "Gun Powder",
     "photo": "/minecraft/imgs/hostile/creeper.jpg",
     "difficult": "Easy"
     },
     {
     "mob": "Ender Dragon",
     "location": "The End",
-    "items": "Raw Chicken",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
-    "difficult": "Easy"
+    "items": "Dragons Breath",
+    "photo": "/minecraft/imgs/hostile/ender_dragon.jpg",
+    "difficult": "Expert"
     },
     {
     "mob": "Ghast",
     "location": "The Nether",
-    "items": "Raw Cod",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
-    "difficult": "Easy"
+    "items": "Ghast Tears",
+    "photo": "/minecraft/imgs/hostile/ghast.jpg",
+    "difficult": "Medium"
     },
     {
     "mob": "Guardians",
     "location": "Sources of water",
-    "items": "Raw Beef",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
-    "difficult": "Easy"
+    "items": "Raw Cod, Prismarine Crystals",
+    "photo": "/minecraft/imgs/hostile/guardians.png",
+    "difficult": "Expert"
     },
     {
     "mob": "Hoglins",
     "location": "The Nether",
-    "items": "Leather",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
-    "difficult": "Easy"
+    "items": "Leather, Raw Porkchop",
+    "photo": "/minecraft/imgs/hostile/hoglins.jpg",
+    "difficult": "Medium"
     },
     {
     "mob": "Magma Cube",
     "location": "The Nether",
-    "items": "Emeralds, Snowberries",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
+    "items": "Magma Cream",
+    "photo": "/minecraft/imgs/hostile/magma_cube.png",
     "difficult": "Easy"
     },
     {
     "mob": "Phantom",
     "location": "Minecraft Overworld",
-    "items": "Leather",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
-    "difficult": "Easy"
+    "items": "Phantom Membrane",
+    "photo": "/minecraft/imgs/hostile/phantom.jpg",
+    "difficult": "Medium"
     },
     {
     "mob": "Pillagers",
     "location": "Minecraft Overworld",
-    "items": "NOTHING",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
-    "difficult": "Easy"
+    "items": "Crossbow, Emerald, Enchanted Book, Iron Items & Armor",
+    "photo": "/minecraft/imgs/hostile/pillagers.png",
+    "difficult": "Hard"
     },
     {
     "mob": "Shulker",
     "location": "The End",
-    "items": "Raw Porkchop",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
+    "items": "Shulker Shells",
+    "photo": "/minecraft/imgs/hostile/shulkers.png",
     "difficult": "Easy"
     },
     {
     "mob": "Silverfish",
     "location": "Minecraft Caves",
-    "items": "Raw Rabbit",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
+    "items": "NOTHING",
+    "photo": "/minecraft/imgs/hostile/silverfish.png",
     "difficult": "Easy"
     },
     {
     "mob": "Skeleton",
     "location": "Everywhere",
-    "items": "Raw Salmon",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
+    "items": "Bow, Bone, Armor, Arrows",
+    "photo": "/minecraft/imgs/hostile/skeleton.png",
     "difficult": "Easy"
     },
     {
     "mob": "Slimes",
     "location": "Minecraft Marshes",
-    "items": "Raw Mutton",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
+    "items": "Slimeball",
+    "photo": "/minecraft/imgs/hostile/slimes.png",
     "difficult": "Easy"
     },
     {
     "mob": "Stray",
-    "location": "Sources of water",
-    "items": "Ink Sac",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
+    "location": "Minecraft Snow Zones",
+    "items": "Bones, Arrows, Arrow of Slowness",
+    "photo": "/minecraft/imgs/hostile/strays.png",
     "difficult": "Easy"
     },
     {
     "mob": "The Wither",
-    "location": "The Nether",
-    "items": "NOTHING",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
-    "difficult": "Easy"
+    "location": "Anywhere",
+    "items": "Nether Star",
+    "photo": "/minecraft/imgs/hostile/the_wither.png",
+    "difficult": "Expert"
     },
     {
     "mob": "Vexes",
-    "location": "Minecraft Oceans",
-    "items": "Turtle Shell",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
-    "difficult": "Easy"
+    "location": "Pillager Woodland Mansions",
+    "items": "NOTHING",
+    "photo": "/minecraft/imgs/hostile/vexes.png",
+    "difficult": "Hard"
     },
     {
     "mob": "Witches",
-    "location": "Minecraft Villages",
-    "items": "NOTHING",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
+    "location": "Minecraft Overworld",
+    "items": "Glowstone Dust, Redstone, Sugar, Sticks, Spider Eyes, Gunpowder, Glass Bottles",
+    "photo": "/minecraft/imgs/hostile/witches.png",
     "difficult": "Easy"
     },
     {
     "mob": "Wither Skeleton",
-    "location": "Minecraft Oceans",
-    "items": "Turtle Shell",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
-    "difficult": "Easy"
+    "location": "The Nether",
+    "items": "Coal, Bone, Stone Sword, Wither Skeleton Head",
+    "photo": "/minecraft/imgs/hostile/wither_skeletons.jpg",
+    "difficult": "Hard"
     },
     {
     "mob": "Zombies",
     "location": "Minecraft Oceans",
-    "items": "Turtle Shell",
-    "photo": "/minecraft/imgs/hostile/blaze.png",
+    "items": "Carrots, Potatos, Shovels, Swords, Iron Ingot, Armor",
+    "photo": "/minecraft/imgs/hostile/zombies.png",
     "difficult": "Easy"
     }
     ]

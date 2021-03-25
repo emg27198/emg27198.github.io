@@ -251,6 +251,55 @@
 		font-size: 1rem;
 	}
 
+	/*entry 14 css large - Good Spawning Mobs Page*/
+	.entry14 .cards{
+		display: grid;
+		grid-template-columns: auto auto auto auto;
+		grid-gap: 5px;
+	}
+	.entry14 .cards section img{
+		width: 98%;
+	}
+	.entry14 .cards section h2{
+		font-size: 1.5rem;
+	}
+	.entry14 .cards section p{
+		font-size: 1rem;
+	}
+
+	/*entry 15 css large - Neutral Spawning Mobs Page*/
+	.entry15 .cards{
+		display: grid;
+		grid-template-columns: auto auto auto auto;
+		grid-gap: 5px;
+	}
+	.entry15 .cards section img{
+		width: 98%;
+	}
+	.entry15 .cards section h2{
+		font-size: 1.5rem;
+	}
+	.entry15 .cards section p{
+		font-size: 1rem;
+	}
+
+	/*entry 16 css large - Hostile Spawning Mobs Page*/
+	.entry16 .cards{
+		display: grid;
+		grid-template-columns: auto auto auto auto;
+		grid-gap: 5px;
+	}
+	.entry16 .cards section img{
+		width: 98%;
+	}
+	.entry16 .cards section h2{
+		font-size: 1.5rem;
+	}
+	.entry16 .cards section p{
+		font-size: 1rem;
+	}
+
+
 	/*footer css large*/
 	footer {
 		font-size: 1rem;
