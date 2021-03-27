@@ -4,7 +4,7 @@
         "mob": "Bats",
         "location": "Minecraft Caves",
         "items": "NOTHING",
-        "photo": "/minecraft/imgs/good/bats.png",
+        "photo": "/minecraft/imgs/good/bats.PNG",
         "difficult": "Easy"
         },
         {
@@ -39,7 +39,7 @@
         "mob": "Donkeys",
         "location": "Minecraft Plains",
         "items": "Leather",
-        "photo": "/minecraft/imgs/good/donkeys.png",
+        "photo": "/minecraft/imgs/good/donkeys.PNG",
         "difficult": "Easy"
         },
         {
