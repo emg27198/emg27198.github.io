@@ -199,16 +199,17 @@
 		font-family: 'Avro', serif;
 		font-weight: bold;
 	}
+	.entry4 .info p a:link, .entry4 .info p a:visited{
+		color: #E9C46A;
+		text-decoration: none;
+	}
+	.entry4 .info p a:hover{
+		color: white;
+		text-decoration: underline;
+	}
 	.grid3{
 		display: grid;
 		grid-gap: 10px;
-	}
-	.grid3 a:link, .grid1 a:visited{
-		text-decoration: none;
-	}
-	.grid3 a:hover{
-		color: #2A9D8F;
-		text-decoration: underline;
 	}
 	.organize {
 		text-align: center;
